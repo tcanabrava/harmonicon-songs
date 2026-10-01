@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "kind": "songs",
+  "id": "harmonicon-songs",
+  "name": "Harmonicon songs",
+  "version": "1.0.0",
+  "requires": {
+    "harmonicon": ">=0.0.13"
+  }
+}
