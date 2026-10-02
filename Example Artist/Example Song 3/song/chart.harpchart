@@ -12,7 +12,8 @@
     "tempo_bpm": 120,
     "key": "G",
     "time_signature": "4/4",
-    "difficulty": "intermediate"
+    "difficulty": "intermediate",
+    "genre": "Traditional"
   },
   "timing": {
     "resolution": 480,

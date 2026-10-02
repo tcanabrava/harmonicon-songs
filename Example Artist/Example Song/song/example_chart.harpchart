@@ -12,7 +12,8 @@
     "tempo_bpm": 120,
     "key": "G",
     "time_signature": "4/4",
-    "difficulty": "intermediate"
+    "difficulty": "intermediate",
+    "genre": "Traditional"
   },
   "timing": {
     "resolution": 480,
@@ -62,7 +63,13 @@
       "duration": 0.5,
       "phrase": "call 1",
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_02",
@@ -70,7 +77,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -78,7 +95,13 @@
       "time": 1.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_04",
@@ -86,7 +109,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 3, "action": "draw", "note": "B4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -94,7 +127,13 @@
       "time": 2.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_06",
@@ -102,7 +141,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -110,7 +159,13 @@
       "time": 3.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_08",
@@ -118,7 +173,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 3, "action": "draw", "note": "B4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -127,42 +192,78 @@
       "duration": 0.5,
       "phrase": "response 1",
       "play_mode": "single",
-      "events": [{ "hole": 4, "action": "draw", "note": "D5" }]
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
     },
     {
       "id": "note_10",
       "time": 4.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_11",
       "time": 5.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_12",
       "time": 5.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 4, "action": "draw", "note": "D5" }]
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
     },
     {
       "id": "note_13",
       "time": 6.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_14",
       "time": 6.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_15",
@@ -170,7 +271,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -178,7 +289,13 @@
       "time": 7.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 1, "action": "draw", "note": "D4" }]
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
     },
     {
       "id": "note_17",
@@ -186,7 +303,13 @@
       "duration": 0.5,
       "phrase": "call 2",
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_18",
@@ -194,7 +317,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 3, "action": "draw", "note": "B4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -202,7 +335,13 @@
       "time": 9.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_20",
@@ -210,7 +349,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -218,7 +367,13 @@
       "time": 10.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 3, "action": "draw", "note": "B4" }]
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
     },
     {
       "id": "note_22",
@@ -231,8 +386,15 @@
           "action": "draw",
           "note": "B4",
           "modifiers": [
-            { "type": "bend", "semitones": -1 },
-            { "type": "vibrato", "oscillation_hz": 5, "intensity": 0.4 }
+            {
+              "type": "bend",
+              "semitones": -1
+            },
+            {
+              "type": "vibrato",
+              "oscillation_hz": 5,
+              "intensity": 0.4
+            }
           ]
         }
       ]
@@ -242,7 +404,13 @@
       "time": 11.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_24",
@@ -250,7 +418,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -259,28 +437,52 @@
       "duration": 0.5,
       "phrase": "response 2",
       "play_mode": "single",
-      "events": [{ "hole": 1, "action": "draw", "note": "D4" }]
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
     },
     {
       "id": "note_26",
       "time": 12.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 1, "action": "draw", "note": "D4" }]
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
     },
     {
       "id": "note_27",
       "time": 13.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_28",
       "time": 13.5,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 2, "action": "draw", "note": "G4" }]
+      "events": [
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4"
+        }
+      ]
     },
     {
       "id": "note_29",
@@ -292,7 +494,13 @@
           "hole": 1,
           "action": "draw",
           "note": "D4",
-          "modifiers": [{ "type": "wah-wah", "oscillation_hz": 3, "intensity": 0.5 }]
+          "modifiers": [
+            {
+              "type": "wah-wah",
+              "oscillation_hz": 3,
+              "intensity": 0.5
+            }
+          ]
         }
       ]
     },
@@ -302,7 +510,17 @@
       "duration": 0.5,
       "play_mode": "single",
       "events": [
-        { "hole": 2, "action": "draw", "note": "G4", "modifiers": [{ "type": "bend", "semitones": -1 }] }
+        {
+          "hole": 2,
+          "action": "draw",
+          "note": "G4",
+          "modifiers": [
+            {
+              "type": "bend",
+              "semitones": -1
+            }
+          ]
+        }
       ]
     },
     {
@@ -310,7 +528,13 @@
       "time": 15.0,
       "duration": 0.5,
       "play_mode": "single",
-      "events": [{ "hole": 1, "action": "draw", "note": "D4" }]
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
     },
     {
       "id": "note_32",
@@ -322,7 +546,13 @@
           "hole": 1,
           "action": "blow",
           "note": "C4",
-          "modifiers": [{ "type": "vibrato", "oscillation_hz": 4, "intensity": 0.3 }]
+          "modifiers": [
+            {
+              "type": "vibrato",
+              "oscillation_hz": 4,
+              "intensity": 0.3
+            }
+          ]
         }
       ]
     }

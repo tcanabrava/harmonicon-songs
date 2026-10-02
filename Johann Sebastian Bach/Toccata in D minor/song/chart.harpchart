@@ -12,7 +12,8 @@
     "tempo_bpm": 60,
     "key": "D",
     "time_signature": "4/4",
-    "difficulty": "expert"
+    "difficulty": "expert",
+    "genre": "Classical"
   },
   "timing": {
     "resolution": 480,

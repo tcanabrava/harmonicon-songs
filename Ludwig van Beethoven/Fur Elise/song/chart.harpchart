@@ -12,7 +12,8 @@
     "tempo_bpm": 120,
     "key": "A",
     "time_signature": "3/8",
-    "difficulty": "advanced"
+    "difficulty": "advanced",
+    "genre": "Classical"
   },
   "timing": {
     "resolution": 480,

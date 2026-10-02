@@ -12,7 +12,8 @@
     "tempo_bpm": 96,
     "key": "C",
     "time_signature": "2/4",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "genre": "Traditional"
   },
   "timing": {
     "resolution": 480,
