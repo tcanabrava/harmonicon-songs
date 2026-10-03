@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "format_version": "1.0.0",
+    "author": "Harmonicon contributors",
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/song/Shenandoah_G/0000",
+    "license": "Public-domain underlying melody; chart adaptation MIT",
+    "description": "Opening four phrases with pickup, G transposed to C. The reference has flexible bar lengths; 4/4 is the practice grid, not a claim that the source is strictly metered. Two passes; no artist recording or accompaniment."
+  },
+  "song": {
+    "title": "Shenandoah",
+    "artist": "Traditional",
+    "tempo_bpm": 60,
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "easy",
+    "genre": "jazz"
+  },
+  "timing": {
+    "resolution": 480,
+    "tempo_map": [
+      {
+        "tick": 0,
+        "bpm": 60
+      }
+    ]
+  },
+  "harmonica": {
+    "type": "diatonic",
+    "holes": 10,
+    "position": "1st",
+    "bending_profile": "richter_standard",
+    "layout": {
+      "blow": [
+        "C4",
+        "E4",
+        "G4",
+        "C5",
+        "E5",
+        "G5",
+        "C6",
+        "E6",
+        "G6",
+        "C7"
+      ],
+      "draw": [
+        "D4",
+        "G4",
+        "B4",
+        "D5",
+        "F5",
+        "A5",
+        "B5",
+        "D6",
+        "F6",
+        "A6"
+      ]
+    }
+  },
+  "track": [
+    {
+      "id": "note_001",
+      "time": 4.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ],
+      "phrase": "practice pass 1"
+    },
+    {
+      "id": "note_002",
+      "time": 5.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_003",
+      "time": 5.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_004",
+      "time": 6.0,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_005",
+      "time": 7.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_006",
+      "time": 8.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "blow",
+          "note": "E5"
+        }
+      ]
+    },
+    {
+      "id": "note_007",
+      "time": 8.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "draw",
+          "note": "F5"
+        }
+      ]
+    },
+    {
+      "id": "note_008",
+      "time": 9.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_009",
+      "time": 9.5,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_010",
+      "time": 11.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_011",
+      "time": 11.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "draw",
+          "note": "B5"
+        }
+      ]
+    },
+    {
+      "id": "note_012",
+      "time": 12.0,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_013",
+      "time": 13.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_014",
+      "time": 14.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_015",
+      "time": 14.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_016",
+      "time": 15.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "blow",
+          "note": "E5"
+        }
+      ]
+    },
+    {
+      "id": "note_017",
+      "time": 15.5,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_018",
+      "time": 17.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_019",
+      "time": 20.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ],
+      "phrase": "practice pass 2"
+    },
+    {
+      "id": "note_020",
+      "time": 21.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_021",
+      "time": 21.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_022",
+      "time": 22.0,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "blow",
+          "note": "C5"
+        }
+      ]
+    },
+    {
+      "id": "note_023",
+      "time": 23.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_024",
+      "time": 24.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "blow",
+          "note": "E5"
+        }
+      ]
+    },
+    {
+      "id": "note_025",
+      "time": 24.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "draw",
+          "note": "F5"
+        }
+      ]
+    },
+    {
+      "id": "note_026",
+      "time": 25.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_027",
+      "time": 25.5,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_028",
+      "time": 27.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_029",
+      "time": 27.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "draw",
+          "note": "B5"
+        }
+      ]
+    },
+    {
+      "id": "note_030",
+      "time": 28.0,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_031",
+      "time": 29.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_032",
+      "time": 30.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_033",
+      "time": 30.5,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_034",
+      "time": 31.0,
+      "duration": 0.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 5,
+          "action": "blow",
+          "note": "E5"
+        }
+      ]
+    },
+    {
+      "id": "note_035",
+      "time": 31.5,
+      "duration": 1.5,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    },
+    {
+      "id": "note_036",
+      "time": 33.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfect_window_ms": 120,
+    "good_window_ms": 260,
+    "miss_window_ms": 500
+  }
+}

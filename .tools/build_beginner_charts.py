@@ -11,9 +11,9 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = Path(__file__).with_name('beginner_songs.json')
 
 
-def build():
+def build(data=DATA):
     base = json.loads((ROOT / 'Traditional/Amazing Grace/song/chart.harpchart').read_text())
-    songs = json.loads(DATA.read_text())
+    songs = json.loads(Path(data).read_text())
     for song in songs:
         chart = copy.deepcopy(base)
         bpm = song['bpm']
@@ -57,7 +57,7 @@ def build():
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(json.dumps(chart, ensure_ascii=False, indent=2) + '\n')
         (folder / 'SOURCES.md').write_text(
-            f'# {song["title"]}\n\nPlan ID: {song["id"]}. Research date: 2026-10-02.\n\n'
+            f'# {song["title"]}\n\nPlan ID: {song["id"]}. Research date: {song.get("research_date", "2026-10-02")}.\n\n'
             f'Underlying melody: {song["attribution"]}.\n\n'
             f'Melody reference: [{song["source_label"]}]({song["source"]}). '
             f'{song["provenance"]}\n\n'

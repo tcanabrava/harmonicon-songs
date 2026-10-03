@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "format_version": "1.0.0",
+    "author": "Harmonicon contributors",
+    "source": "https://levysheetmusic.mse.jhu.edu/collection/145/079",
+    "license": "Public-domain underlying melody; chart adaptation MIT",
+    "description": "Chorus bars 3–8, original G major, all durations doubled; holes 1–4. Source tied G joined. Begins after the chromatic bar 2, which is omitted intact. Two passes."
+  },
+  "song": {
+    "title": "Bill Bailey Wont You Please Come Home",
+    "artist": "Hughie Cannon",
+    "tempo_bpm": 72,
+    "key": "G",
+    "time_signature": "2/4",
+    "difficulty": "easy",
+    "genre": "jazz"
+  },
+  "timing": {
+    "resolution": 480,
+    "tempo_map": [
+      {
+        "tick": 0,
+        "bpm": 72
+      }
+    ]
+  },
+  "harmonica": {
+    "type": "diatonic",
+    "holes": 10,
+    "position": "2nd",
+    "bending_profile": "richter_standard",
+    "layout": {
+      "blow": [
+        "C4",
+        "E4",
+        "G4",
+        "C5",
+        "E5",
+        "G5",
+        "C6",
+        "E6",
+        "G6",
+        "C7"
+      ],
+      "draw": [
+        "D4",
+        "G4",
+        "B4",
+        "D5",
+        "F5",
+        "A5",
+        "B5",
+        "D6",
+        "F6",
+        "A6"
+      ]
+    }
+  },
+  "track": [
+    {
+      "id": "note_001",
+      "time": 3.333333,
+      "duration": 0.833334,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ],
+      "phrase": "practice pass 1"
+    },
+    {
+      "id": "note_002",
+      "time": 4.166667,
+      "duration": 1.666666,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 2,
+          "action": "blow",
+          "note": "E4"
+        }
+      ]
+    },
+    {
+      "id": "note_003",
+      "time": 5.833333,
+      "duration": 0.833334,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    },
+    {
+      "id": "note_004",
+      "time": 6.666667,
+      "duration": 3.333333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
+    },
+    {
+      "id": "note_005",
+      "time": 10.0,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
+    },
+    {
+      "id": "note_006",
+      "time": 10.833333,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 2,
+          "action": "blow",
+          "note": "E4"
+        }
+      ]
+    },
+    {
+      "id": "note_007",
+      "time": 12.5,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    },
+    {
+      "id": "note_008",
+      "time": 13.333333,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
+    },
+    {
+      "id": "note_009",
+      "time": 15.0,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_010",
+      "time": 16.666667,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_011",
+      "time": 17.5,
+      "duration": 4.166667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    },
+    {
+      "id": "note_012",
+      "time": 25.0,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ],
+      "phrase": "practice pass 2"
+    },
+    {
+      "id": "note_013",
+      "time": 25.833333,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 2,
+          "action": "blow",
+          "note": "E4"
+        }
+      ]
+    },
+    {
+      "id": "note_014",
+      "time": 27.5,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    },
+    {
+      "id": "note_015",
+      "time": 28.333333,
+      "duration": 3.333334,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
+    },
+    {
+      "id": "note_016",
+      "time": 31.666667,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 1,
+          "action": "draw",
+          "note": "D4"
+        }
+      ]
+    },
+    {
+      "id": "note_017",
+      "time": 32.5,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 2,
+          "action": "blow",
+          "note": "E4"
+        }
+      ]
+    },
+    {
+      "id": "note_018",
+      "time": 34.166667,
+      "duration": 0.833333,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    },
+    {
+      "id": "note_019",
+      "time": 35.0,
+      "duration": 1.666667,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "draw",
+          "note": "B4"
+        }
+      ]
+    },
+    {
+      "id": "note_020",
+      "time": 36.666667,
+      "duration": 1.666666,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_021",
+      "time": 38.333333,
+      "duration": 0.833334,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 4,
+          "action": "draw",
+          "note": "D5"
+        }
+      ]
+    },
+    {
+      "id": "note_022",
+      "time": 39.166667,
+      "duration": 4.166666,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 3,
+          "action": "blow",
+          "note": "G4"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfect_window_ms": 120,
+    "good_window_ms": 260,
+    "miss_window_ms": 500
+  }
+}

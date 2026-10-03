@@ -1,0 +1,2070 @@
+[
+  {
+    "id": "BL04",
+    "title": "John Henry",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "2/4",
+    "genre": "blues",
+    "key": "G",
+    "notes": [
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "E6",
+        0.5
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "E6",
+        0.5
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "-",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/mindspring.com/~thornton.rose/JohnHenry/0000",
+    "source_label": "Thornton Rose traditional blues ABC variant",
+    "attribution": "Anonymous American traditional folk-blues",
+    "adaptation": "Complete melody of this short ABC variant, raised an octave; tied G notes joined. Upper-register holes 4–8; not a transcription of a named artist recording.",
+    "provenance": "ABC title John Henry, composer Traditional, rhythm blues, key G. There are other traditional tunes for this title; this chart explicitly selects this variant.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL01",
+    "title": "Ode to Joy",
+    "artist": "Ludwig van Beethoven",
+    "bpm": 64,
+    "meter": "4/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mutopiaproject.org/ftp/BeethovenLv/ode/ode.ly",
+    "source_label": "Mutopia vocal-score source",
+    "attribution": "Beethoven (1770–1827), Ninth Symphony theme (1824)",
+    "adaptation": "Opening eight bars of the theme, transposed from G to C; soprano melody only, without the source harmony.",
+    "provenance": "Checked against the opening soprano in Mutopia ode.ly. The original composition predates modern copyright terms.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL02",
+    "title": "Wiegenlied Op 49 No 4",
+    "artist": "Johannes Brahms",
+    "bpm": 60,
+    "meter": "3/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        1.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1037",
+    "source_label": "Mutopia original voice-and-piano edition",
+    "attribution": "Brahms (1833–1897), Op.49 No.4 (1868)",
+    "adaptation": "Opening four vocal bars from the pickup; E-flat major transposed to C in the upper register. Source melody rests retained, piano omitted.",
+    "provenance": "Melody track of Wiegenlied.mid, from the original vocal edition rather than the separately listed modern guitar arrangement.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL03",
+    "title": "Wiegenlied D 498",
+    "artist": "Franz Schubert",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "D5",
+        1.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "G4",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "D5",
+        1.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1040",
+    "source_label": "Mutopia vocal-score source",
+    "attribution": "Schubert (1797–1828), D.498 (1816)",
+    "adaptation": "Opening four vocal bars, A-flat transposed to C. All note lengths doubled to make original sixteenth notes playable half-beat notes; accompaniment omitted.",
+    "provenance": "Pitches and ties checked against the melody block in schubert_wiegen_lied.ly and its melody MIDI track.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL04",
+    "title": "New World Symphony Largo",
+    "artist": "Antonin Dvorak",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        4.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        4.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://trillian.mit.edu/~jc/music/abc/mirror/gulfweb.net:34043/~rlwalker/abc/largoc.abc",
+    "source_label": "Archived C-major Largo melody",
+    "attribution": "Dvořák (1841–1904), Ninth Symphony (1893)",
+    "adaptation": "Opening eight bars of the English-horn theme, independently encoded in C and raised one octave from the reference. Later contrasting section omitted.",
+    "provenance": "Reference ABC X:3004, first eight bars; composer melody only, not the later Going Home lyric adaptation or reference chords.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL05",
+    "title": "Surprise Symphony Andante",
+    "artist": "Joseph Haydn",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "G4",
+        2.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://en.wikipedia.org/wiki/Symphony_No._94_(Haydn)#II._Andante",
+    "source_label": "Notated first-violin theme",
+    "attribution": "Haydn (1732–1809), Symphony No.94 (1791)",
+    "adaptation": "Opening six bars, raised one octave; all source durations doubled. Stops before the F-sharp in bar 7 rather than replacing it with another pitch.",
+    "provenance": "Checked against the first-violin notation embedded with its LilyPond note source, c8 c e e g g e4 f8 f d d b b g4 c8 c e e g g e4. The source contains the original composer theme.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL06",
+    "title": "Morning Mood",
+    "artist": "Edvard Grieg",
+    "bpm": 64,
+    "meter": "6/8",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.flutetunes.com/tunes.php?id=148",
+    "source_label": "Morning Mood melodic score",
+    "attribution": "Grieg (1843–1907), Peer Gynt Suite No.1, Op.46 (1888)",
+    "adaptation": "Opening two bars of the flute theme, E major transposed to C. Durations doubled; optional grace ornament in bar 2 omitted. Later development excluded.",
+    "provenance": "Read from the first two bars of the melody score. Only the original composer theme is encoded; no reference engraving or arrangement accompaniment is included.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL07",
+    "title": "Ombra mai fu",
+    "artist": "George Frideric Handel",
+    "bpm": 60,
+    "meter": "3/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        3.0
+      ],
+      [
+        "-",
+        1.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://hdl.handle.net/1802/16201",
+    "source_label": "Sibley Library original 1905 score",
+    "attribution": "Handel (1685–1759), Serse (1738)",
+    "adaptation": "Opening vocal phrase in F transposed to C. Initial six-beat tied hold shortened to three beats; dotted-eighth/sixteenth pair changed to two quarters. One beat of breath added after the phrase; three passes.",
+    "provenance": "Songs and Airs, Oliver Ditson 1905, edited Ebenezer Prout (1835–1909), printed pages 72–73 (scan pages 96–97). The library explicitly identifies this edition as public domain. Only the original vocal line is encoded, not the translated lyrics or piano reduction.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "CL08",
+    "title": "Canon in D Ground Bass",
+    "artist": "Johann Pachelbel",
+    "bpm": 64,
+    "meter": "4/4",
+    "genre": "classical",
+    "key": "C",
+    "notes": [
+      [
+        "C6",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)",
+    "source_label": "Original Canon and Gigue score catalog",
+    "attribution": "Pachelbel (1653–1706), Canon ground bass",
+    "adaptation": "The complete eight-note ground-bass pattern, transposed from D to C and raised to holes 4–7. Three practice passes; this is the bass, not the violin melody or complete Canon.",
+    "provenance": "Original bass sequence D–A–B–F-sharp–G–D–G–A. Uniform octave transposition preserves its original intervals; no variation or modern arrangement is claimed.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FA07",
+    "title": "Oh Freedom",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "jazz",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "C6",
+        3.0
+      ],
+      [
+        "D6",
+        3.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        3.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/oh-freedom.abc",
+    "source_label": "Anonymous spiritual ABC reference",
+    "attribution": "Anonymous American spiritual, nineteenth century",
+    "adaptation": "Opening four bars, D major transposed to C two octaves above the source’s low register; holes 6–8. Two passes. A traditional-repertoire addition associated with Joan Baez and Pete Seeger; no artist arrangement copied.",
+    "provenance": "Reference ABC X:553 identifies anonymous USA spiritual. Opening melody only, excluding later civil-rights verses and performance-specific arrangements. Joan Baez’s official Oh, Freedom release credits the composition Traditional: https://www.youtube.com/watch?v=hWgdx3qpdIo . Pete’s repertoire connection is documented in Smithsonian SFW40225 notes: https://folkways-media.si.edu/docs/folkways/artwork/SFW40225.pdf .",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FA08",
+    "title": "Shenandoah",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "jazz",
+    "key": "C",
+    "notes": [
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        1.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        1.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "G5",
+        1.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/song/Shenandoah_G/0000",
+    "source_label": "John Chambers anonymous sea-shanty ABC variant",
+    "attribution": "Anonymous nineteenth-century American sea shanty",
+    "adaptation": "Opening four phrases with pickup, G transposed to C. The reference has flexible bar lengths; 4/4 is the practice grid, not a claim that the source is strictly metered. Two passes; no artist recording or accompaniment.",
+    "provenance": "Reference Shenandoah [G], Sea shanty, composer anon.; independently encoded melody. This is the sea shanty, not the unrelated York Fusiliers march also titled Shenandoah. Pete Seeger’s repertoire connection: https://folkways.si.edu/pete-seeger-collection/shenandoah .",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR01",
+    "title": "A Canoa Virou",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "C6",
+        2.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "D6",
+        1.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        1.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/midi/a_canoa_virou.mid",
+    "source_label": "Mama Lisa traditional melody reference",
+    "attribution": "Anonymous Brazilian traditional cantiga",
+    "adaptation": "Opening verse excerpt; A major transposed to C in the upper register. Durations doubled; no source accompaniment.",
+    "provenance": "Melody selected from a_canoa_virou.mid; no contributor recording or MIDI file is distributed. The exact excerpt includes the source pickup.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR02",
+    "title": "Caranguejo Nao E Peixe",
+    "artist": "Traditional",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.servidores.ufscar.br/glauber/wp-content/uploads/2021/07/Caranguelo-CD-Musicaliza-Grade.pdf",
+    "source_label": "UFSCar folklore vocal-melody reference",
+    "attribution": "Anonymous Brazilian traditional cantiga",
+    "adaptation": "Opening vocal excerpt, pickup before bar 9 through bar 15; raised one octave and durations doubled. Modern ensemble introduction and accompaniment omitted.",
+    "provenance": "The score explicitly credits Folclore brasileiro. Only its traditional vocal line is used, not Glauber Santiago’s 2002 ensemble arrangement.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR03",
+    "title": "Balaio",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "C5",
+        1.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "G4",
+        1.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://www.servidores.ufscar.br/glauber/wp-content/uploads/2021/07/Balaio-Grade.pdf",
+    "source_label": "UFSCar folklore vocal-melody reference",
+    "attribution": "Anonymous southern Brazilian traditional dance song",
+    "adaptation": "Opening two-bar vocal motif with pickup, F transposed to C; durations doubled. Stops before the following A4 would require a bend. Three passes. Future xote treatment; originally southern repertoire.",
+    "provenance": "Voice pickup before bar 9 and bars 9–10. The traditional tune only; no modern clarinet arrangement. This differs from the Mama Lisa E-major variant, which has chromatic pitches outside this chart’s scope.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR04",
+    "title": "Boi da Cara Preta",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "C5",
+        4.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "C5",
+        4.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.aasaocarlos.com.br/folclore/folclore/musicas%20e%20partituras%20folcloricas/boi%20da%20cara%20preta.pdf",
+    "source_label": "Associação de Artes de São Carlos melody reference",
+    "attribution": "Anonymous Brazilian traditional lullaby",
+    "adaptation": "Opening eight bars, raised one octave; source harmony and teaching finger numbers omitted. A lullaby melody exercise for a future xote backing.",
+    "provenance": "Read from page 1, first two systems, of the folklore teaching score. The underlying anonymous melody is used independently of the modern engraving.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR05",
+    "title": "A Barata Diz Que Tem",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?c=35&p=4412&t=es",
+    "source_label": "Mama Lisa traditional melody reference",
+    "attribution": "Anonymous Brazilian traditional cantiga",
+    "adaptation": "One verse and refrain, raised one octave; MIDI articulation gaps replaced with the notated half-beat/beat slots. No backing supplied.",
+    "provenance": "Pitches follow barata.mid melody track. The new chart uses no source recording, MIDI bytes, lyrics or accompaniment.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "FR06",
+    "title": "Atirei o Pau no Gato",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "forro",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.servidores.ufscar.br/glauber/wp-content/uploads/2021/07/Atirei-o-pau-no-gato-Grade-e-Partes-1.pdf",
+    "source_label": "UFSCar traditional melody reference",
+    "attribution": "Anonymous Brazilian traditional cantiga",
+    "adaptation": "Opening traditional melody from pickup before bar 17 through bar 23, G transposed up five semitones to C; holes 4–7. Source first ending, no replacement lyrics or source accompaniment.",
+    "provenance": "Flute soprano 1 melody on pages 2–3, excluding the newly composed ensemble introduction. The score explicitly identifies Melodia tradicional do Brasil.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "JZ04",
+    "title": "Bill Bailey Wont You Please Come Home",
+    "artist": "Hughie Cannon",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "jazz",
+    "key": "G",
+    "notes": [
+      [
+        "D4",
+        1.0
+      ],
+      [
+        "E4",
+        2.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "B4",
+        4.0
+      ],
+      [
+        "D4",
+        1.0
+      ],
+      [
+        "E4",
+        2.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "B4",
+        2.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "G4",
+        5.0
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://levysheetmusic.mse.jhu.edu/collection/145/079",
+    "source_label": "Levy original 1902 score",
+    "attribution": "Hughie Cannon (1877–1912), 1902",
+    "adaptation": "Chorus bars 3–8, original G major, all durations doubled; holes 1–4. Source tied G joined. Begins after the chromatic bar 2, which is omitted intact. Two passes.",
+    "provenance": "Printed page 4, first system bars 3–5 and second system bars 6–8. Original Howley, Haviland and Dresser edition; 1902 publication and author death 1912. Vocal melody only, no source piano harmony or lyrics.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "JZ05",
+    "title": "Ballin the Jack",
+    "artist": "Chris Smith",
+    "bpm": 68,
+    "meter": "4/4",
+    "genre": "jazz",
+    "key": "C",
+    "notes": [
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "E6",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "A5",
+        1.5
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://levysheetmusic.mse.jhu.edu/collection/151/060",
+    "source_label": "Levy original 1913 edition",
+    "attribution": "Chris Smith (1879–1949), 1913; lyricist Jim Burris (1876–1946)",
+    "adaptation": "Chorus bars 5–6, ending before the chromatic pickup into bar 7; B-flat transposed to C in the upper register. Dotted-eighth/sixteenth pairs straightened to two eighths. Three passes.",
+    "provenance": "Printed page 4, third system, vocal melody only. Original 1913 publication; both credited authors died over 70 years ago. This chart excludes lyrics, piano harmony and later versions.",
+    "research_date": "2026-10-03"
+  },
+  {
+    "id": "JZ06",
+    "title": "Old Folks at Home",
+    "artist": "Stephen Foster",
+    "bpm": 68,
+    "meter": "4/4",
+    "genre": "jazz",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "C6",
+        1.5
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        3.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "C6",
+        1.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mutopiaproject.org/ftp/FosterSC/oldfolks/oldfolks.ly",
+    "source_label": "Mutopia theme score source",
+    "attribution": "Foster (1826–1864), Old Folks at Home (1851)",
+    "adaptation": "Opening eight bars of the main theme; A transposed to C in an upper octave. Top note selected where the reference doubles the theme; no variations, bass or lyrics.",
+    "provenance": "TemaMainVoice first eight bars in oldfolks.ly. No later piano variations or MIDI performance are distributed; historical melody only.",
+    "research_date": "2026-10-03"
+  }
+]

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "format_version": "1.0.0",
+    "author": "Harmonicon contributors",
+    "source": "https://trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/oh-freedom.abc",
+    "license": "Public-domain underlying melody; chart adaptation MIT",
+    "description": "Opening four bars, D major transposed to C two octaves above the source’s low register; holes 6–8. Two passes. A traditional-repertoire addition associated with Joan Baez and Pete Seeger; no artist arrangement copied."
+  },
+  "song": {
+    "title": "Oh Freedom",
+    "artist": "Traditional",
+    "tempo_bpm": 60,
+    "key": "C",
+    "time_signature": "4/4",
+    "difficulty": "easy",
+    "genre": "jazz"
+  },
+  "timing": {
+    "resolution": 480,
+    "tempo_map": [
+      {
+        "tick": 0,
+        "bpm": 60
+      }
+    ]
+  },
+  "harmonica": {
+    "type": "diatonic",
+    "holes": 10,
+    "position": "1st",
+    "bending_profile": "richter_standard",
+    "layout": {
+      "blow": [
+        "C4",
+        "E4",
+        "G4",
+        "C5",
+        "E5",
+        "G5",
+        "C6",
+        "E6",
+        "G6",
+        "C7"
+      ],
+      "draw": [
+        "D4",
+        "G4",
+        "B4",
+        "D5",
+        "F5",
+        "A5",
+        "B5",
+        "D6",
+        "F6",
+        "A6"
+      ]
+    }
+  },
+  "track": [
+    {
+      "id": "note_001",
+      "time": 4.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ],
+      "phrase": "practice pass 1"
+    },
+    {
+      "id": "note_002",
+      "time": 7.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_003",
+      "time": 8.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_004",
+      "time": 9.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_005",
+      "time": 12.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_006",
+      "time": 15.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "blow",
+          "note": "E6"
+        }
+      ]
+    },
+    {
+      "id": "note_007",
+      "time": 16.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_008",
+      "time": 17.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_009",
+      "time": 22.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "blow",
+          "note": "G5"
+        }
+      ],
+      "phrase": "practice pass 2"
+    },
+    {
+      "id": "note_010",
+      "time": 25.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_011",
+      "time": 26.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_012",
+      "time": 27.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_013",
+      "time": 30.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_014",
+      "time": 33.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "blow",
+          "note": "E6"
+        }
+      ]
+    },
+    {
+      "id": "note_015",
+      "time": 34.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_016",
+      "time": 35.0,
+      "duration": 3.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfect_window_ms": 120,
+    "good_window_ms": 260,
+    "miss_window_ms": 500
+  }
+}

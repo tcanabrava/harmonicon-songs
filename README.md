@@ -69,11 +69,25 @@ historical melody and performance references in its `SOURCES.md`. These are
 short beginner practice adaptations for a C harmonica. Rebuild the five new
 charts with `python .tools/build_folk_charts.py`.
 
+The [next pack plan](NEXT_PACK_PLAN.md) records 20 additional chart exercises:
+eight classical themes, six Brazilian traditional melodies, John Henry,
+three early jazz standards, Oh Freedom, and Shenandoah. Rebuild them offline
+with `python .tools/build_next_charts.py`. Some are short excerpts or motifs;
+their exact scope and adaptation are documented beside each chart.
+
+[RIGHTS_PENDING.md](RIGHTS_PENDING.md) tracks requested works awaiting source
+verification or permission. Short educational excerpts are not automatically
+cleared for public distribution under fair use.
+
 ## Credits
 
-"Boom Boom", "Hush Hush" and "One Bourbon, One Scotch, One Beer" by John Lee
-Hooker (public domain recordings).
+The existing examples credit "Boom Boom", "Hush Hush" and "One Bourbon,
+One Scotch, One Beer" to John Lee Hooker. Their composition and recording
+rights have not been established by the public-domain chart research above;
+the earlier blanket public-domain-recordings claim was unsupported.
 
 ## License
 
-MIT, like the game; see `LICENSE`.
+Repository code and our chart adaptations are MIT licensed; see `LICENSE`
+and each song's `SOURCES.md`. This does not grant rights to third-party
+compositions, modern arrangements, recordings or artwork.
