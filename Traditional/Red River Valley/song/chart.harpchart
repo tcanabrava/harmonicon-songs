@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/usa/red-river-valley/0000",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "D5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/From this valley they say you are going"
     },
     {
       "id": "note_002",
@@ -199,7 +200,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/I will miss your bright eyes and sweet smile"
     },
     {
       "id": "note_012",
@@ -316,7 +318,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/For they say you are taking the sunshine"
     },
     {
       "id": "note_021",
@@ -446,7 +449,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/That brightened our pathway awhile"
     },
     {
       "id": "note_031",

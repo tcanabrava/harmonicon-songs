@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.phasenumkehr.de/musik/musiknotation",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/There"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "is"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "house"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "New"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "Or-"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "leans"
     },
     {
       "id": "note_009",
@@ -174,7 +182,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/There"
     },
     {
       "id": "note_010",
@@ -187,7 +196,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "is"
     },
     {
       "id": "note_011",
@@ -200,7 +210,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_012",
@@ -213,7 +224,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "house"
     },
     {
       "id": "note_013",
@@ -226,7 +238,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_014",
@@ -239,7 +252,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "New"
     },
     {
       "id": "note_015",
@@ -252,7 +266,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "Or-"
     },
     {
       "id": "note_016",
@@ -265,7 +280,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "leans"
     },
     {
       "id": "note_017",
@@ -279,7 +295,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 3"
+      "phrase": "practice pass 3",
+      "lyric": "/There"
     },
     {
       "id": "note_018",
@@ -292,7 +309,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "is"
     },
     {
       "id": "note_019",
@@ -305,7 +323,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_020",
@@ -318,7 +337,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "house"
     },
     {
       "id": "note_021",
@@ -331,7 +351,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_022",
@@ -344,7 +365,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "New"
     },
     {
       "id": "note_023",
@@ -357,7 +379,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "Or-"
     },
     {
       "id": "note_024",
@@ -370,7 +393,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "leans"
     }
   ],
   "scoring": {

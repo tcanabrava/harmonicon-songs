@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/oh-freedom.abc",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Oh"
     },
     {
       "id": "note_002",
@@ -95,7 +96,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "free-"
     },
     {
       "id": "note_004",
@@ -108,7 +110,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "dom"
     },
     {
       "id": "note_005",
@@ -121,7 +124,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Oh"
     },
     {
       "id": "note_006",
@@ -147,7 +151,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "free-"
     },
     {
       "id": "note_008",
@@ -160,7 +165,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "dom"
     },
     {
       "id": "note_009",
@@ -174,7 +180,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Oh"
     },
     {
       "id": "note_010",
@@ -200,7 +207,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "free-"
     },
     {
       "id": "note_012",
@@ -213,7 +221,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "dom"
     },
     {
       "id": "note_013",
@@ -226,7 +235,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Oh"
     },
     {
       "id": "note_014",
@@ -252,7 +262,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "free-"
     },
     {
       "id": "note_016",
@@ -265,7 +276,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "dom"
     }
   ],
   "scoring": {

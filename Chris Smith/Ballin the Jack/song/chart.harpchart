@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://levysheetmusic.mse.jhu.edu/collection/151/060",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Step"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "a-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "round"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "floor"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "kind"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "of"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "nice"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "and"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "light"
     },
     {
       "id": "note_011",
@@ -200,7 +210,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Step"
     },
     {
       "id": "note_012",
@@ -213,7 +224,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "a-"
     },
     {
       "id": "note_013",
@@ -226,7 +238,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "round"
     },
     {
       "id": "note_014",
@@ -239,7 +252,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_015",
@@ -252,7 +266,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "floor"
     },
     {
       "id": "note_016",
@@ -265,7 +280,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "kind"
     },
     {
       "id": "note_017",
@@ -278,7 +294,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "of"
     },
     {
       "id": "note_018",
@@ -291,7 +308,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "nice"
     },
     {
       "id": "note_019",
@@ -304,7 +322,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "and"
     },
     {
       "id": "note_020",
@@ -317,7 +336,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "light"
     },
     {
       "id": "note_021",
@@ -331,7 +351,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "practice pass 3"
+      "phrase": "practice pass 3",
+      "lyric": "/Step"
     },
     {
       "id": "note_022",
@@ -344,7 +365,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "a-"
     },
     {
       "id": "note_023",
@@ -357,7 +379,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "round"
     },
     {
       "id": "note_024",
@@ -370,7 +393,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_025",
@@ -383,7 +407,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "floor"
     },
     {
       "id": "note_026",
@@ -396,7 +421,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "kind"
     },
     {
       "id": "note_027",
@@ -409,7 +435,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "of"
     },
     {
       "id": "note_028",
@@ -422,7 +449,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "nice"
     },
     {
       "id": "note_029",
@@ -435,7 +463,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "and"
     },
     {
       "id": "note_030",
@@ -448,7 +477,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "light"
     }
   ],
   "scoring": {

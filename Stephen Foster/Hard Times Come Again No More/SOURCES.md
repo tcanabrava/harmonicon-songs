@@ -14,7 +14,7 @@ The underlying historical melody is treated as public domain in Luxembourg: the 
 
 [Arlo’s official release announcement](https://www.arloguthrie.com/news/purchase-hard-times-come-again-no-more-single-0). Its 2020 additional lyrics and arrangement are excluded.
 
-These links establish repertoire connections only. No recording, lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
+These links establish repertoire connections only. No recording, modern lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
 
 ## Chart adaptation
 
@@ -25,3 +25,13 @@ Standard 10-hole C Richter harmonica, 60 BPM, single notes, no bends. Four beats
 The chart adaptation and generator are under the repository MIT license. The historical melody remains public domain. Rebuild with `python .tools/build_folk_charts.py`.
 
 Schema, pitch-to-hole mapping, and event timing are checked automatically. Beginner difficulty is an arrangement target; physical play-through and an in-game listening review remain to be done.
+
+## Lyrics
+
+Language: en. Text: Stephen Foster (1826–1864), original 1854 text.
+
+Lyric reference: [Historical text / traditional lyric reference](https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=371).
+
+Scope and timing: Opening two verse lines only, as explicitly underlaid in the reference score. The rest of the verse and chorus are outside this chart. Syllable onsets; unannotated notes sustain the previous syllable.
+
+The included historical text is treated as public domain independently of the melody. Modern translations, additional verses, recordings and performer arrangements are outside this inclusion. Lyric onset annotations are our MIT-licensed chart work. Format 1.6.0 is required for lyric display.

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=213",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/O"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "cra-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "vo"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bri-"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gou"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "com"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "rosa"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/De-"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bai-"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "xo"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "uma"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sa-"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ca-"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "da"
     },
     {
       "id": "note_017",
@@ -278,7 +294,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/O"
     },
     {
       "id": "note_018",
@@ -291,7 +308,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "cra-"
     },
     {
       "id": "note_019",
@@ -304,7 +322,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "vo"
     },
     {
       "id": "note_020",
@@ -317,7 +336,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bri-"
     },
     {
       "id": "note_021",
@@ -330,7 +350,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gou"
     },
     {
       "id": "note_022",
@@ -343,7 +364,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "com"
     },
     {
       "id": "note_023",
@@ -356,7 +378,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_024",
@@ -369,7 +392,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "rosa"
     },
     {
       "id": "note_025",
@@ -382,7 +406,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/De-"
     },
     {
       "id": "note_026",
@@ -395,7 +420,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bai-"
     },
     {
       "id": "note_027",
@@ -408,7 +434,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "xo"
     },
     {
       "id": "note_028",
@@ -421,7 +448,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_029",
@@ -434,7 +462,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "uma"
     },
     {
       "id": "note_030",
@@ -447,7 +476,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sa-"
     },
     {
       "id": "note_031",
@@ -460,7 +490,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ca-"
     },
     {
       "id": "note_032",
@@ -473,7 +504,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "da"
     },
     {
       "id": "note_033",
@@ -487,7 +519,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 3"
+      "phrase": "practice pass 3",
+      "lyric": "/O"
     },
     {
       "id": "note_034",
@@ -500,7 +533,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "cra-"
     },
     {
       "id": "note_035",
@@ -513,7 +547,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "vo"
     },
     {
       "id": "note_036",
@@ -526,7 +561,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bri-"
     },
     {
       "id": "note_037",
@@ -539,7 +575,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gou"
     },
     {
       "id": "note_038",
@@ -552,7 +589,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "com"
     },
     {
       "id": "note_039",
@@ -565,7 +603,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_040",
@@ -578,7 +617,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "rosa"
     },
     {
       "id": "note_041",
@@ -591,7 +631,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/De-"
     },
     {
       "id": "note_042",
@@ -604,7 +645,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "bai-"
     },
     {
       "id": "note_043",
@@ -617,7 +659,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "xo"
     },
     {
       "id": "note_044",
@@ -630,7 +673,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_045",
@@ -643,7 +687,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "uma"
     },
     {
       "id": "note_046",
@@ -656,7 +701,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sa-"
     },
     {
       "id": "note_047",
@@ -669,7 +715,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ca-"
     },
     {
       "id": "note_048",
@@ -682,7 +729,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "da"
     }
   ],
   "scoring": {

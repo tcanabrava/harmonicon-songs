@@ -5,6 +5,7 @@ See each SOURCES.md for the historical melody edition and changes.
 import copy
 import json
 from pathlib import Path
+from chart_lyrics import apply_lyrics
 ROOT = Path(__file__).resolve().parents[1]
 BASE = json.loads((ROOT / 'Traditional/Amazing Grace/song/chart.harpchart').read_text())
 SONGS = [
@@ -50,6 +51,7 @@ if __name__ == '__main__':
     for artist,title,bpm,meter,text,source,description in SONGS:
         c=copy.deepcopy(BASE)
         c['metadata'].update(author='Harmonicon contributors',source=source,
+            format_version='1.0.0',
             license='Public-domain underlying melody; chart adaptation MIT',description=description)
         c['song'].update(title=title,artist=artist,tempo_bpm=bpm,key='G' if title.startswith('Swing') else 'C',time_signature=meter,genre='Folk',difficulty='easy')
         c['timing']['tempo_map']=[{'tick':0,'bpm':bpm}]
@@ -75,5 +77,6 @@ if __name__ == '__main__':
             first=True
         dest=ROOT/artist/title/'song/chart.harpchart'
         dest.parent.mkdir(parents=True,exist_ok=True)
+        apply_lyrics(c)
         dest.write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n')
         print(title,len(c['track']),round(cursor,1),'seconds')

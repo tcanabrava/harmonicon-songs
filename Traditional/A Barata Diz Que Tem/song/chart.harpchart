@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?c=35&p=4412&t=es",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/A"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "ba-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ra-"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "ta"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "diz"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "que"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "tem"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Se-"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "te"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "sai-"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "as"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "fi-"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ló"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/É"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "men-"
     },
     {
       "id": "note_017",
@@ -277,7 +293,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ti-"
     },
     {
       "id": "note_018",
@@ -290,7 +307,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ra"
     },
     {
       "id": "note_019",
@@ -303,7 +321,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "da"
     },
     {
       "id": "note_020",
@@ -316,7 +335,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ba-"
     },
     {
       "id": "note_021",
@@ -329,7 +349,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ra-"
     },
     {
       "id": "note_022",
@@ -342,7 +363,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ta"
     },
     {
       "id": "note_023",
@@ -355,7 +377,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "/E-"
     },
     {
       "id": "note_024",
@@ -368,7 +391,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "la"
     },
     {
       "id": "note_025",
@@ -381,7 +405,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "tem"
     },
     {
       "id": "note_026",
@@ -394,7 +419,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "é"
     },
     {
       "id": "note_027",
@@ -407,7 +433,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "u-"
     },
     {
       "id": "note_028",
@@ -420,7 +447,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "ma"
     },
     {
       "id": "note_029",
@@ -433,7 +461,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "só"
     },
     {
       "id": "note_030",
@@ -446,7 +475,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Ha"
     },
     {
       "id": "note_031",
@@ -459,7 +489,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "ha"
     },
     {
       "id": "note_032",
@@ -472,7 +503,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "ha"
     },
     {
       "id": "note_033",
@@ -485,7 +517,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ho"
     },
     {
       "id": "note_034",
@@ -498,7 +531,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ho"
     },
     {
       "id": "note_035",
@@ -511,7 +545,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "ho"
     },
     {
       "id": "note_036",
@@ -524,7 +559,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/E-"
     },
     {
       "id": "note_037",
@@ -537,7 +573,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "la"
     },
     {
       "id": "note_038",
@@ -550,7 +587,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "tem"
     },
     {
       "id": "note_039",
@@ -563,7 +601,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "é"
     },
     {
       "id": "note_040",
@@ -576,7 +615,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "u-"
     },
     {
       "id": "note_041",
@@ -589,7 +629,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "ma"
     },
     {
       "id": "note_042",
@@ -602,7 +643,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "só"
     }
   ],
   "scoring": {

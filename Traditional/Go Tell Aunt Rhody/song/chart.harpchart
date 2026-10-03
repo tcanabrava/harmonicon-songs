@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/gulfweb.net:34043/~rlwalker/abc/gotell/0000",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Go"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Go"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_010",
@@ -199,7 +208,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_012",
@@ -212,7 +222,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Go"
     },
     {
       "id": "note_013",
@@ -225,7 +236,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_014",
@@ -238,7 +250,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_015",
@@ -251,7 +264,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_016",
@@ -264,7 +278,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_017",
@@ -277,7 +292,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/The"
     },
     {
       "id": "note_018",
@@ -290,7 +306,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "old"
     },
     {
       "id": "note_019",
@@ -303,7 +320,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "gray"
     },
     {
       "id": "note_020",
@@ -316,7 +334,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "goose"
     },
     {
       "id": "note_021",
@@ -329,7 +348,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "is"
     },
     {
       "id": "note_022",
@@ -342,7 +362,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dead"
     },
     {
       "id": "note_023",
@@ -356,7 +377,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Go"
     },
     {
       "id": "note_024",
@@ -369,7 +391,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_025",
@@ -382,7 +405,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_026",
@@ -395,7 +419,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_027",
@@ -408,7 +433,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_028",
@@ -421,7 +447,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Go"
     },
     {
       "id": "note_029",
@@ -434,7 +461,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_030",
@@ -447,7 +475,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_031",
@@ -460,7 +489,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_032",
@@ -486,7 +516,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_034",
@@ -499,7 +530,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Go"
     },
     {
       "id": "note_035",
@@ -512,7 +544,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "tell"
     },
     {
       "id": "note_036",
@@ -525,7 +558,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "Aunt"
     },
     {
       "id": "note_037",
@@ -538,7 +572,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "Rho-"
     },
     {
       "id": "note_038",
@@ -551,7 +586,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_039",
@@ -564,7 +600,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/The"
     },
     {
       "id": "note_040",
@@ -577,7 +614,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "old"
     },
     {
       "id": "note_041",
@@ -590,7 +628,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "gray"
     },
     {
       "id": "note_042",
@@ -603,7 +642,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "goose"
     },
     {
       "id": "note_043",
@@ -616,7 +656,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "is"
     },
     {
       "id": "note_044",
@@ -629,7 +670,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "dead"
     }
   ],
   "scoring": {

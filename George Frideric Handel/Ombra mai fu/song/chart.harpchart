@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://hdl.handle.net/1802/16201",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Om-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "bra"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "mai"
     },
     {
       "id": "note_004",
@@ -121,7 +124,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "fu"
     },
     {
       "id": "note_006",
@@ -135,7 +139,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Om-"
     },
     {
       "id": "note_007",
@@ -148,7 +153,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "bra"
     },
     {
       "id": "note_008",
@@ -161,7 +167,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "mai"
     },
     {
       "id": "note_009",
@@ -187,7 +194,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "fu"
     },
     {
       "id": "note_011",
@@ -201,7 +209,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 3"
+      "phrase": "practice pass 3",
+      "lyric": "/Om-"
     },
     {
       "id": "note_012",
@@ -214,7 +223,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "bra"
     },
     {
       "id": "note_013",
@@ -227,7 +237,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "mai"
     },
     {
       "id": "note_014",
@@ -253,7 +264,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "fu"
     }
   ],
   "scoring": {

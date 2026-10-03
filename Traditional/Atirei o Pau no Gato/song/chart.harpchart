@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.servidores.ufscar.br/glauber/wp-content/uploads/2021/07/Atirei-o-pau-no-gato-Grade-e-Partes-1.pdf",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Atirei o pau no gato"
     },
     {
       "id": "note_002",
@@ -199,7 +200,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Mas o gato não morreu"
     },
     {
       "id": "note_012",
@@ -330,7 +332,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Atirei o pau no gato"
     },
     {
       "id": "note_022",
@@ -460,7 +463,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Mas o gato não morreu"
     },
     {
       "id": "note_032",

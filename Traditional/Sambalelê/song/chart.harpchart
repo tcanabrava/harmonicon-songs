@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=2042",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Sambalelê está doente"
     },
     {
       "id": "note_002",
@@ -173,7 +174,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "/Está com a cabeça quebrada"
     },
     {
       "id": "note_010",
@@ -277,7 +279,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/Sambalelê precisava"
     },
     {
       "id": "note_018",
@@ -381,7 +384,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "/De umas dezoito lambadas"
     },
     {
       "id": "note_026",

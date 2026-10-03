@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=212",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C6"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Te-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "re-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "zi-"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "nha"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "Je-"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "sus"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Deu"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "uma"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "draw",
           "note": "F6"
         }
-      ]
+      ],
+      "lyric": "que-"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "da"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "foi"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "ao"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "chão"
     },
     {
       "id": "note_015",
@@ -252,7 +266,8 @@
           "note": "C6"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Te-"
     },
     {
       "id": "note_016",
@@ -265,7 +280,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "re-"
     },
     {
       "id": "note_017",
@@ -278,7 +294,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "zi-"
     },
     {
       "id": "note_018",
@@ -291,7 +308,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "nha"
     },
     {
       "id": "note_019",
@@ -304,7 +322,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_020",
@@ -317,7 +336,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "Je-"
     },
     {
       "id": "note_021",
@@ -330,7 +350,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "sus"
     },
     {
       "id": "note_022",
@@ -343,7 +364,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Deu"
     },
     {
       "id": "note_023",
@@ -356,7 +378,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "uma"
     },
     {
       "id": "note_024",
@@ -369,7 +392,8 @@
           "action": "draw",
           "note": "F6"
         }
-      ]
+      ],
+      "lyric": "que-"
     },
     {
       "id": "note_025",
@@ -382,7 +406,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "da"
     },
     {
       "id": "note_026",
@@ -395,7 +420,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "foi"
     },
     {
       "id": "note_027",
@@ -408,7 +434,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "ao"
     },
     {
       "id": "note_028",
@@ -421,7 +448,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "chão"
     }
   ],
   "scoring": {

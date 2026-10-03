@@ -14,14 +14,24 @@ The underlying historical melody is treated as public domain in Luxembourg: the 
 
 [Woody Guthrie, Smithsonian catalog](https://folkways.si.edu/woody-guthrie/go-tell-aunt-rhody/american-folk-childrens-struggle-protest/music/track/smithsonian); [Pete Seeger, Smithsonian catalog](https://folkways.si.edu/pete-seeger/go-tell-aunt-rhodie/american-folk/music/track/smithsonian).
 
-These links establish repertoire connections only. No recording, lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
+These links establish repertoire connections only. No recording, modern lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
 
 ## Chart adaptation
 
-Traditional eight-bar tune from the Rousseau/Greenville tune family, transposed D to C; no modern harmony or lyrics.
+Traditional eight-bar tune from the Rousseau/Greenville tune family, transposed D to C; no modern harmony or modern lyrics.
 
 Standard 10-hole C Richter harmonica, 64 BPM, single notes, no bends. Four beats of lead-in, unfolded practice repetitions, and two beats of silence between passes. Chart timing is measured in seconds; no backing audio is supplied. Buffalo Gals doubles source durations within the original displayed meter as a slow subdivision exercise. Barbara Allen reaches holes 6–9; start with Go Tell Aunt Rhody before attempting the wider upper register.
 
 The chart adaptation and generator are under the repository MIT license. The historical melody remains public domain. Rebuild with `python .tools/build_folk_charts.py`.
 
 Schema, pitch-to-hole mapping, and event timing are checked automatically. Beginner difficulty is an arrangement target; physical play-through and an in-game listening review remain to be done.
+
+## Lyrics
+
+Language: en. Text: Anonymous traditional English-language goose-song refrain, with reference vocal underlay; Rhody spelling normalized from Rhodie.
+
+Lyric reference: [Historical text / traditional lyric reference](https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/gulfweb.net:34043/~rlwalker/abc/gotell/0000).
+
+Scope and timing: Complete short refrain, following the reference vocal underlay; the second Rhody has a two-note melisma. Syllable onsets; unannotated notes sustain the previous syllable.
+
+The included historical text is treated as public domain independently of the melody. Modern translations, additional verses, recordings and performer arrangements are outside this inclusion. Lyric onset annotations are our MIT-licensed chart work. Format 1.6.0 is required for lyric display.

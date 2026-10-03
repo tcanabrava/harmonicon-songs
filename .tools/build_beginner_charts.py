@@ -6,6 +6,7 @@ Notes use quarter-note beats. See each SOURCES.md for the selected variant.
 import copy
 import json
 from pathlib import Path
+from chart_lyrics import apply_lyrics, lyric_source, update_source
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = Path(__file__).with_name('beginner_songs.json')
@@ -18,6 +19,7 @@ def build(data=DATA):
         chart = copy.deepcopy(base)
         bpm = song['bpm']
         chart['metadata'].update(
+            format_version='1.0.0',
             author='Harmonicon contributors', source=song['source'],
             license='Public-domain underlying melody; chart adaptation MIT',
             description=song['adaptation'])
@@ -55,6 +57,7 @@ def build(data=DATA):
         folder = ROOT / song['artist'] / song['title']
         dest = folder / 'song/chart.harpchart'
         dest.parent.mkdir(parents=True, exist_ok=True)
+        lyrics = apply_lyrics(chart)
         dest.write_text(json.dumps(chart, ensure_ascii=False, indent=2) + '\n')
         (folder / 'SOURCES.md').write_text(
             f'# {song["title"]}\n\nPlan ID: {song["id"]}. Research date: {song.get("research_date", "2026-10-02")}.\n\n'
@@ -69,10 +72,14 @@ def build(data=DATA):
             'and physical play-through before release.\n\n'
             'Rights scope: the older underlying melody is treated as public domain; '
             'this independently encoded beginner exercise is MIT licensed. '
-            'Reference editions, source MIDI performances, modern harmony, lyrics, '
+            'Reference editions, source MIDI performances, modern harmony, '
+            + ('modern lyrics, ' if lyrics else 'lyrics, ') +
             'recordings, and artwork are not included or licensed by this chart. '
             'No backing audio is supplied. Genre labels identify planned pack styles; '
-            'bossa nova, jazz, blues, and rock accompaniment remains future work.\n')
+            'bossa nova, jazz, blues, and rock accompaniment remains future work.\n'
+            + (lyric_source(lyrics) if lyrics else ''))
+        if lyrics:
+            update_source(folder, lyrics)
         print(f'{song["id"]}: {song["title"]}: {len(chart["track"])} notes, {cursor * 60 / bpm:.1f}s')
 
 

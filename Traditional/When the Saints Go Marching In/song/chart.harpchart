@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/when-the-saints/0000",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Oh"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "when"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "saints"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/Go"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "march-"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "ing"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/Oh"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "when"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "saints"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "go"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "march-"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ing"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_017",
@@ -277,7 +293,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/I"
     },
     {
       "id": "note_018",
@@ -290,7 +307,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "want"
     },
     {
       "id": "note_019",
@@ -303,7 +321,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "to"
     },
     {
       "id": "note_020",
@@ -316,7 +335,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "be"
     },
     {
       "id": "note_021",
@@ -329,7 +349,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_022",
@@ -342,7 +363,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "that"
     },
     {
       "id": "note_023",
@@ -355,7 +377,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "num-"
     },
     {
       "id": "note_024",
@@ -368,7 +391,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "ber"
     },
     {
       "id": "note_025",
@@ -381,7 +405,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/When"
     },
     {
       "id": "note_026",
@@ -394,7 +419,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_027",
@@ -407,7 +433,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "saints"
     },
     {
       "id": "note_028",
@@ -420,7 +447,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "go"
     },
     {
       "id": "note_029",
@@ -433,7 +461,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "march-"
     },
     {
       "id": "note_030",
@@ -446,7 +475,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "ing"
     },
     {
       "id": "note_031",
@@ -459,7 +489,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "in"
     }
   ],
   "scoring": {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.servidores.ufscar.br/glauber/wp-content/uploads/2021/07/Balaio-Grade.pdf",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G4"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Eu queria ser balaio"
     },
     {
       "id": "note_002",
@@ -173,7 +174,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Balaio"
     },
     {
       "id": "note_010",
@@ -213,7 +215,8 @@
           "note": "G4"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Eu queria ser balaio"
     },
     {
       "id": "note_013",
@@ -317,7 +320,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Balaio"
     },
     {
       "id": "note_021",
@@ -357,7 +361,8 @@
           "note": "G4"
         }
       ],
-      "phrase": "practice pass 3"
+      "phrase": "practice pass 3",
+      "lyric": "/Eu queria ser balaio"
     },
     {
       "id": "note_024",
@@ -461,7 +466,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Balaio"
     },
     {
       "id": "note_032",

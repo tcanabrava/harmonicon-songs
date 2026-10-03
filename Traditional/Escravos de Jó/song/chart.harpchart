@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=208",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Escravos de Jó"
     },
     {
       "id": "note_002",
@@ -134,7 +135,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Jogavam caxangá"
     },
     {
       "id": "note_007",
@@ -212,7 +214,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Tira, põe, deixa ficar"
     },
     {
       "id": "note_013",
@@ -303,7 +306,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "/Guerreiros com guerreiros"
     },
     {
       "id": "note_020",
@@ -368,7 +372,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Fazem zig, zig, zá"
     },
     {
       "id": "note_025",
@@ -550,7 +555,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Guerreiros com guerreiros fazem zig, zig, zá"
     },
     {
       "id": "note_039",

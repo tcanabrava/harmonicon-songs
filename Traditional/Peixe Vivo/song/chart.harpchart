@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.aasaocarlos.com.br/folclore/folclore/musicas%20e%20partituras%20folcloricas/peixe%20vivo.pdf",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Como pode o peixe vivo"
     },
     {
       "id": "note_002",
@@ -173,7 +174,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Viver fora da água fria"
     },
     {
       "id": "note_010",
@@ -277,7 +279,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Como poderei viver"
     },
     {
       "id": "note_018",
@@ -381,7 +384,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Sem a tua companhia"
     },
     {
       "id": "note_026",

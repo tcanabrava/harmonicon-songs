@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/mindspring.com/~thornton.rose/JohnHenry/0000",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Well, John Henry was a little baby"
     },
     {
       "id": "note_002",
@@ -225,7 +226,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Sitting on his papa's knee"
     },
     {
       "id": "note_014",
@@ -329,7 +331,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/He picked up a hammer and a little piece of steel"
     },
     {
       "id": "note_022",
@@ -485,7 +488,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Says, this hammer be the death of me"
     },
     {
       "id": "note_034",
@@ -628,7 +632,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Says, this hammer be the death of me"
     },
     {
       "id": "note_045",

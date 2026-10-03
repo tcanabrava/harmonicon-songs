@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/midi/a_canoa_virou.mid",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/A canoa virou"
     },
     {
       "id": "note_002",
@@ -147,7 +148,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Quem deixou ela virar"
     },
     {
       "id": "note_008",
@@ -225,7 +227,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "/Foi por causa da Patrícia"
     },
     {
       "id": "note_014",
@@ -329,7 +332,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "/Que não soube remar"
     },
     {
       "id": "note_022",

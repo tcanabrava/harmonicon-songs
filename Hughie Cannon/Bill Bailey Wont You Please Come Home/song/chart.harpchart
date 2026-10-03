@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://levysheetmusic.mse.jhu.edu/collection/145/079",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "D4"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Won't"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E4"
         }
-      ]
+      ],
+      "lyric": "you"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "come"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "home"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "draw",
           "note": "D4"
         }
-      ]
+      ],
+      "lyric": "/She"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "E4"
         }
-      ]
+      ],
+      "lyric": "moans"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "/Whole"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "day"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "long"
     },
     {
       "id": "note_011",
@@ -213,7 +223,8 @@
           "note": "D4"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Won't"
     },
     {
       "id": "note_013",
@@ -226,7 +237,8 @@
           "action": "blow",
           "note": "E4"
         }
-      ]
+      ],
+      "lyric": "you"
     },
     {
       "id": "note_014",
@@ -239,7 +251,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "come"
     },
     {
       "id": "note_015",
@@ -252,7 +265,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "home"
     },
     {
       "id": "note_016",
@@ -265,7 +279,8 @@
           "action": "draw",
           "note": "D4"
         }
-      ]
+      ],
+      "lyric": "/She"
     },
     {
       "id": "note_017",
@@ -278,7 +293,8 @@
           "action": "blow",
           "note": "E4"
         }
-      ]
+      ],
+      "lyric": "moans"
     },
     {
       "id": "note_018",
@@ -291,7 +307,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "de"
     },
     {
       "id": "note_019",
@@ -304,7 +321,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "/Whole"
     },
     {
       "id": "note_020",
@@ -317,7 +335,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "day"
     },
     {
       "id": "note_021",
@@ -330,7 +349,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "long"
     },
     {
       "id": "note_022",

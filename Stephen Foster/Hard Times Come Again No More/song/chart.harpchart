@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=371",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Let"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "us"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "pause"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "life's"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "plea-"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "sures"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "and"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "count"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "its"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ma-"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "ny"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "tears"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "/While"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "we"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "all"
     },
     {
       "id": "note_017",
@@ -277,7 +293,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sup"
     },
     {
       "id": "note_018",
@@ -290,7 +307,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sor-"
     },
     {
       "id": "note_019",
@@ -303,7 +321,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "row"
     },
     {
       "id": "note_020",
@@ -316,7 +335,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "with"
     },
     {
       "id": "note_021",
@@ -329,7 +349,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_022",
@@ -342,7 +363,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "poor"
     },
     {
       "id": "note_023",
@@ -356,7 +378,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Let"
     },
     {
       "id": "note_024",
@@ -369,7 +392,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "us"
     },
     {
       "id": "note_025",
@@ -382,7 +406,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "pause"
     },
     {
       "id": "note_026",
@@ -395,7 +420,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "in"
     },
     {
       "id": "note_027",
@@ -408,7 +434,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "life's"
     },
     {
       "id": "note_028",
@@ -421,7 +448,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "plea-"
     },
     {
       "id": "note_029",
@@ -434,7 +462,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "sures"
     },
     {
       "id": "note_030",
@@ -447,7 +476,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "and"
     },
     {
       "id": "note_031",
@@ -460,7 +490,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "count"
     },
     {
       "id": "note_032",
@@ -473,7 +504,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "its"
     },
     {
       "id": "note_033",
@@ -486,7 +518,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ma-"
     },
     {
       "id": "note_034",
@@ -499,7 +532,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "ny"
     },
     {
       "id": "note_035",
@@ -512,7 +546,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "tears"
     },
     {
       "id": "note_036",
@@ -525,7 +560,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "/While"
     },
     {
       "id": "note_037",
@@ -538,7 +574,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "we"
     },
     {
       "id": "note_038",
@@ -551,7 +588,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "all"
     },
     {
       "id": "note_039",
@@ -564,7 +602,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sup"
     },
     {
       "id": "note_040",
@@ -577,7 +616,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "sor-"
     },
     {
       "id": "note_041",
@@ -590,7 +630,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "row"
     },
     {
       "id": "note_042",
@@ -603,7 +644,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "with"
     },
     {
       "id": "note_043",
@@ -616,7 +658,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_044",
@@ -629,7 +672,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "poor"
     }
   ],
   "scoring": {

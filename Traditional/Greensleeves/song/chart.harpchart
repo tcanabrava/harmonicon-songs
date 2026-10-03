@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Traditional",
     "source": "Greensleeves",
     "license": "Public domain melody",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "verse"
+      "phrase": "verse",
+      "lyric": "/Alas, my love, you do me wrong"
     },
     {
       "id": "note_002",
@@ -212,7 +213,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/To cast me off discourteously"
     },
     {
       "id": "note_013",
@@ -329,7 +331,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "verse, second ending"
+      "phrase": "verse, second ending",
+      "lyric": "/And I have loved you so long"
     },
     {
       "id": "note_021",
@@ -472,7 +475,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Delighting in your company"
     },
     {
       "id": "note_032",
@@ -557,7 +561,8 @@
           "note": "D6"
         }
       ],
-      "phrase": "chorus"
+      "phrase": "chorus",
+      "lyric": "/Greensleeves was all my joy"
     },
     {
       "id": "note_038",
@@ -674,7 +679,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Greensleeves was my delight"
     },
     {
       "id": "note_047",
@@ -791,7 +797,8 @@
           "note": "D6"
         }
       ],
-      "phrase": "chorus, second ending"
+      "phrase": "chorus, second ending",
+      "lyric": "/Greensleeves was my heart of gold"
     },
     {
       "id": "note_055",
@@ -908,7 +915,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/And who but my Lady Greensleeves"
     },
     {
       "id": "note_064",

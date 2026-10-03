@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.aasaocarlos.com.br/folclore/folclore/musicas%20e%20partituras%20folcloricas/boi%20da%20cara%20preta.pdf",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Boi, boi, boi"
     },
     {
       "id": "note_002",
@@ -108,7 +109,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "/Boi da cara preta"
     },
     {
       "id": "note_005",
@@ -186,7 +188,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "/Pega esta criança"
     },
     {
       "id": "note_011",
@@ -277,7 +280,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Que tem medo de careta"
     },
     {
       "id": "note_018",

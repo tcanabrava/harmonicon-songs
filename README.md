@@ -79,6 +79,20 @@ their exact scope and adaptation are documented beside each chart.
 verification or permission. Short educational excerpts are not automatically
 cleared for public distribution under fair use.
 
+## Lyrics
+
+47 vocal charts include original-language public-domain lyric excerpts using
+the game's `track[].lyric` annotations (chart format 1.6.0). Words follow the
+charted passage, and practice repetitions repeat its text. Some simplified
+melodies display whole phrases together; others highlight individual syllables.
+See [LYRICS.md](LYRICS.md) and each song's `SOURCES.md` for coverage, text sources
+and timing scope. Instrumental passages have no attached vocal text.
+
+The checked-in lyric index is `.tools/lyrics.json`. All three melody generators
+preserve its annotations. Apply it to existing charts and refresh source notes
+with `python .tools/chart_lyrics.py`; check it with
+`python .tools/test_lyrics.py`. These commands work offline.
+
 ## Credits
 
 The existing examples credit "Boom Boom", "Hush Hush" and "One Bourbon,

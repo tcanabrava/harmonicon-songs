@@ -6,7 +6,7 @@ Checked: 2026-10-02.
 
 1891, Traditional Tunes, collected by Frank Kidson (1855–1926), from Mr Holgate.
 
-[Melody transcription identifying the exact historical edition](https://abcnotation.com/tunePage?a=www.joe-offer.com/folkinfo/songs/abc/198/0000); [1891 edition catalog](https://books.google.com/books/about/Traditional_Tunes.html?id=aoZKAQAAMAAJ); [EFDSS biography confirming Kidson’s death](https://www.efdss.org/learning/resources/beginners-guides/35-english-folk-collectors/2443-efdss-frank-kidson). Only the old melody is used.
+[Melody transcription identifying the exact historical edition](https://abcnotation.com/tunePage?a=www.joe-offer.com/folkinfo/songs/abc/198/0000); [1891 edition catalog](https://books.google.com/books/about/Traditional_Tunes.html?id=aoZKAQAAMAAJ); [EFDSS biography confirming Kidson’s death](https://www.efdss.org/learning/resources/beginners-guides/35-english-folk-collectors/2443-efdss-frank-kidson). The melody follows the old edition; included lyrics are documented below.
 
 The underlying historical melody is treated as public domain in Luxembourg: the identified historical creators died more than 70 years ago, or the anonymous traditional melody was publicly documented more than 70 years ago. [Luxembourg government copyright guidance](https://guichet.public.lu/en/entreprises/gestion-juridique-comptabilite/propriete-intellectuelle/droits-auteur/defendre-droits-auteurs-droits-voisin.html) explains the life-plus-70-year term; [Luxembourg cultural-sector guidance](https://culture.lu/cadre-de-travail/22) explains anonymous works. This conclusion concerns this old melody, not every version bearing the title. The historical publication also predates the US public-domain publication cutoff.
 
@@ -14,7 +14,7 @@ The underlying historical melody is treated as public domain in Luxembourg: the 
 
 [Joan Baez’s official label catalog](https://joanbaez.bandcamp.com/track/barbara-allen). The chart deliberately uses the older Holgate/Kidson variant, not the melody or phrasing of this recording.
 
-These links establish repertoire connections only. No recording, lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
+These links establish repertoire connections only. No recording, modern lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
 
 ## Chart adaptation
 
@@ -25,3 +25,13 @@ Standard 10-hole C Richter harmonica, 60 BPM, single notes, no bends. Four beats
 The chart adaptation and generator are under the repository MIT license. The historical melody remains public domain. Rebuild with `python .tools/build_folk_charts.py`.
 
 Schema, pitch-to-hole mapping, and event timing are checked automatically. Beginner difficulty is an arrangement target; physical play-through and an in-game listening review remain to be done.
+
+## Lyrics
+
+Language: en. Text: Anonymous historical ballad text collected by Frank Kidson, Traditional Tunes (1891).
+
+Lyric reference: [Historical text / traditional lyric reference](https://archive.org/details/imslp-tunes-kidson-frank).
+
+Scope and timing: First stanza of the exact Holgate/Kidson (1891) variant: Reading town, rather than the Scarlet town of other versions. Ornament notes merged by the melody adaptation carry one syllable. Syllable onsets; unannotated notes sustain the previous syllable.
+
+The included historical text is treated as public domain independently of the melody. Modern translations, additional verses, recordings and performer arrangements are outside this inclusion. Lyric onset annotations are our MIT-licensed chart work. Format 1.6.0 is required for lyric display.

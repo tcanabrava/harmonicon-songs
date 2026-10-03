@@ -14,7 +14,7 @@ The underlying historical melody is treated as public domain in Luxembourg: the 
 
 [Arlo, Son of the Wind album catalog](https://music.amazon.ca/albums/B010DD4ITW); [Smithsonian Woody Guthrie recording archive](https://sirismm.si.edu/EADpdfs/CFCH.ASCH.pdf).
 
-These links establish repertoire connections only. No recording, lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
+These links establish repertoire connections only. No recording, modern lyrics, accompaniment, cover artwork, or performer arrangement is included. The chart artist is the historical melody attribution, not the associated modern singer.
 
 ## Chart adaptation
 
@@ -25,3 +25,13 @@ Standard 10-hole C Richter harmonica, 64 BPM, single notes, no bends. Four beats
 The chart adaptation and generator are under the repository MIT license. The historical melody remains public domain. Rebuild with `python .tools/build_folk_charts.py`.
 
 Schema, pitch-to-hole mapping, and event timing are checked automatically. Beginner difficulty is an arrangement target; physical play-through and an in-game listening review remain to be done.
+
+## Lyrics
+
+Language: en. Text: John Hodges / Cool White (1821–1891), Lubly Fan (1844), historical chorus text.
+
+Lyric reference: [Historical text / traditional lyric reference](https://levysheetmusic.mse.jhu.edu/collection/020/028).
+
+Scope and timing: Exact opening of the 1844 Lubly Fan chorus used by this chart; the excerpt stops after the next will you pickup. Historical Den and cum spellings normalized to Then and come. It is not the later full Buffalo Gals chorus. Syllable onsets; unannotated notes sustain the previous syllable.
+
+The included historical text is treated as public domain independently of the melody. Modern translations, additional verses, recordings and performer arrangements are outside this inclusion. Lyric onset annotations are our MIT-licensed chart work. Format 1.6.0 is required for lyric display.

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1040",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Schla-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "fe"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "schla-"
     },
     {
       "id": "note_004",
@@ -121,7 +124,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "fe"
     },
     {
       "id": "note_006",
@@ -134,7 +138,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "hol-"
     },
     {
       "id": "note_007",
@@ -147,7 +152,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "der"
     },
     {
       "id": "note_008",
@@ -160,7 +166,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "sü-"
     },
     {
       "id": "note_009",
@@ -186,7 +193,8 @@
           "action": "draw",
           "note": "B4"
         }
-      ]
+      ],
+      "lyric": "ßer"
     },
     {
       "id": "note_011",
@@ -212,7 +220,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "Kna-"
     },
     {
       "id": "note_013",
@@ -225,7 +234,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "be"
     },
     {
       "id": "note_014",
@@ -238,7 +248,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Lei-"
     },
     {
       "id": "note_015",
@@ -251,7 +262,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "se"
     },
     {
       "id": "note_016",
@@ -264,7 +276,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "wiegt"
     },
     {
       "id": "note_017",
@@ -290,7 +303,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "dich"
     },
     {
       "id": "note_019",
@@ -303,7 +317,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "dei-"
     },
     {
       "id": "note_020",
@@ -316,7 +331,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ner"
     },
     {
       "id": "note_021",
@@ -329,7 +345,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "Mut-"
     },
     {
       "id": "note_022",
@@ -355,7 +372,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "ter"
     },
     {
       "id": "note_024",
@@ -381,7 +399,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "Hand"
     }
   ],
   "scoring": {

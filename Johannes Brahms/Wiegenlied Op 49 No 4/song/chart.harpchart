@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1037",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Gu-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ten"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "A-"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "bend"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gut'"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "Nacht"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Mit"
     },
     {
       "id": "note_008",
@@ -173,7 +180,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "Ro-"
     },
     {
       "id": "note_010",
@@ -186,7 +194,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "sen"
     },
     {
       "id": "note_011",
@@ -199,7 +208,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "be-"
     },
     {
       "id": "note_012",
@@ -212,7 +222,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "dacht"
     },
     {
       "id": "note_013",
@@ -239,7 +250,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/Gu-"
     },
     {
       "id": "note_015",
@@ -252,7 +264,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ten"
     },
     {
       "id": "note_016",
@@ -265,7 +278,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "A-"
     },
     {
       "id": "note_017",
@@ -278,7 +292,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "bend"
     },
     {
       "id": "note_018",
@@ -291,7 +306,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gut'"
     },
     {
       "id": "note_019",
@@ -304,7 +320,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "Nacht"
     },
     {
       "id": "note_020",
@@ -317,7 +334,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Mit"
     },
     {
       "id": "note_021",
@@ -343,7 +361,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "Ro-"
     },
     {
       "id": "note_023",
@@ -356,7 +375,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "sen"
     },
     {
       "id": "note_024",
@@ -369,7 +389,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "be-"
     },
     {
       "id": "note_025",
@@ -382,7 +403,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "dacht"
     },
     {
       "id": "note_026",

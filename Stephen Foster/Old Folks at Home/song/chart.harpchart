@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mutopiaproject.org/ftp/FosterSC/oldfolks/oldfolks.ly",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Way down upon the Swanee River"
     },
     {
       "id": "note_002",
@@ -186,7 +187,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Far, far away"
     },
     {
       "id": "note_011",
@@ -238,7 +240,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/There's where my heart is turning ever"
     },
     {
       "id": "note_015",
@@ -355,7 +358,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/There's where the old folks stay"
     },
     {
       "id": "note_024",

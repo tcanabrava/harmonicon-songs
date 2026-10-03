@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/down-by-the-riverside/0000",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "F5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Stu-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "war"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "no"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "more"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "draw",
           "note": "F5"
         }
-      ]
+      ],
+      "lyric": "/I"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "ain't"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "gon-"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "na"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "stu-"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "war"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "no"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "more"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/I"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "ain't"
     },
     {
       "id": "note_017",
@@ -277,7 +293,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "gon-"
     },
     {
       "id": "note_018",
@@ -290,7 +307,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "na"
     },
     {
       "id": "note_019",
@@ -303,7 +321,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "stu-"
     },
     {
       "id": "note_020",
@@ -316,7 +335,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "dy"
     },
     {
       "id": "note_021",
@@ -342,7 +362,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "war"
     },
     {
       "id": "note_023",
@@ -355,7 +376,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "no"
     },
     {
       "id": "note_024",
@@ -368,7 +390,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "more"
     },
     {
       "id": "note_025",

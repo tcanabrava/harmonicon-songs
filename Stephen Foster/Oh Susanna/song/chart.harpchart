@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://americanmusic.library.pitt.edu/content/oh-susanna",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/I come from Alabama with my banjo on my knee"
     },
     {
       "id": "note_002",
@@ -264,7 +265,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/I'm going to Louisiana, my true love for to see"
     },
     {
       "id": "note_017",
@@ -460,7 +462,8 @@
           "note": "C5"
         }
       ],
-      "phrase": "practice pass 2"
+      "phrase": "practice pass 2",
+      "lyric": "/I come from Alabama with my banjo on my knee"
     },
     {
       "id": "note_032",
@@ -655,7 +658,8 @@
           "action": "blow",
           "note": "C5"
         }
-      ]
+      ],
+      "lyric": "/I'm going to Louisiana, my true love for to see"
     },
     {
       "id": "note_047",

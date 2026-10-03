@@ -10,4 +10,14 @@ Adaptation: Complete traditional melody, D to C (G4–G5). Dotted-eighth/sixteen
 
 The chart uses a standard C Richter harmonica, 68 BPM, 3/4, C, single notes only, and no bends. A four-beat count-in precedes the first note; repeated passes have two beats of breathing space. Upper-register exercises need musical and physical play-through before release.
 
-Rights scope: the older underlying melody is treated as public domain; this independently encoded beginner exercise is MIT licensed. Reference editions, source MIDI performances, modern harmony, lyrics, recordings, and artwork are not included or licensed by this chart. No backing audio is supplied. Genre labels identify planned pack styles; bossa nova, jazz, blues, and rock accompaniment remains future work.
+Rights scope: the older underlying melody is treated as public domain; this independently encoded beginner exercise is MIT licensed. Reference editions, source MIDI performances, modern harmony, modern lyrics, recordings, and artwork are not included or licensed by this chart. No backing audio is supplied. Genre labels identify planned pack styles; bossa nova, jazz, blues, and rock accompaniment remains future work.
+
+## Lyrics
+
+Language: en. Text: Historical 1884 lyric usually attributed to Percy Montrose; first verse only.
+
+Lyric reference: [Historical text / traditional lyric reference](https://www.loc.gov/item/2017701507/).
+
+Scope and timing: First verse, repeated for each practice pass; other verses are outside the chart. Syllable onsets; unannotated notes sustain the previous syllable.
+
+The included historical text is treated as public domain independently of the melody. Modern translations, additional verses, recordings and performer arrangements are outside this inclusion. Lyric onset annotations are our MIT-licensed chart work. Format 1.6.0 is required for lyric display.

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=210",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "E5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Pirulito que bate, bate"
     },
     {
       "id": "note_002",
@@ -186,7 +187,8 @@
           "action": "draw",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "/Pirulito que já bateu"
     },
     {
       "id": "note_011",
@@ -290,7 +292,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Quem gosta de mim é ela"
     },
     {
       "id": "note_019",
@@ -394,7 +397,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "/Quem gosta dela sou eu"
     },
     {
       "id": "note_027",

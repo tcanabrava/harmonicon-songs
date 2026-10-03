@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.mamalisa.com/?t=es&p=209",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G4"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Ciranda, cirandinha"
     },
     {
       "id": "note_002",
@@ -160,7 +161,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "/Vamos todos cirandar"
     },
     {
       "id": "note_009",
@@ -251,7 +253,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "/Vamos dar a meia volta"
     },
     {
       "id": "note_016",
@@ -342,7 +345,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "/Volta e meia vamos dar"
     },
     {
       "id": "note_023",
@@ -433,7 +437,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/O anel que tu me destes"
     },
     {
       "id": "note_030",
@@ -524,7 +529,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "/Era de vidro e se quebrou"
     },
     {
       "id": "note_037",
@@ -628,7 +634,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/O amor que tu me tinhas"
     },
     {
       "id": "note_045",
@@ -719,7 +726,8 @@
           "action": "blow",
           "note": "G4"
         }
-      ]
+      ],
+      "lyric": "/Era pouco e se acabou"
     },
     {
       "id": "note_052",

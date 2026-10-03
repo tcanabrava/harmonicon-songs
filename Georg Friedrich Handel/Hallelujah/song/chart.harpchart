@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "G.F. Handel (HWV 56)",
     "source": "Messiah, No. 44: Hallelujah",
     "license": "Public domain",
@@ -69,7 +69,8 @@
           "note": "D6"
         }
       ],
-      "phrase": "Hallelujah"
+      "phrase": "Hallelujah",
+      "lyric": "/Hal-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_004",
@@ -108,7 +111,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_005",
@@ -121,7 +125,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_006",
@@ -134,7 +139,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_007",
@@ -147,7 +153,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_008",
@@ -160,7 +167,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_009",
@@ -173,7 +181,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_010",
@@ -186,7 +195,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_011",
@@ -199,7 +209,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_012",
@@ -212,7 +223,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_013",
@@ -225,7 +237,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_014",
@@ -238,7 +251,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_015",
@@ -251,7 +265,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_016",
@@ -264,7 +279,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_017",
@@ -277,7 +293,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_018",
@@ -290,7 +307,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_019",
@@ -316,7 +334,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_021",
@@ -329,7 +348,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_022",
@@ -343,7 +363,8 @@
           "note": "E6"
         }
       ],
-      "phrase": "a step higher"
+      "phrase": "a step higher",
+      "lyric": "/Hal-"
     },
     {
       "id": "note_023",
@@ -356,7 +377,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_024",
@@ -369,7 +391,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_025",
@@ -382,7 +405,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_026",
@@ -395,7 +419,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_027",
@@ -408,7 +433,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_028",
@@ -421,7 +447,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_029",
@@ -434,7 +461,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_030",
@@ -447,7 +475,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_031",
@@ -460,7 +489,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_032",
@@ -473,7 +503,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_033",
@@ -486,7 +517,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_034",
@@ -499,7 +531,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_035",
@@ -512,7 +545,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_036",
@@ -525,7 +559,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_037",
@@ -538,7 +573,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_038",
@@ -551,7 +587,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_039",
@@ -564,7 +601,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_040",
@@ -590,7 +628,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_042",
@@ -603,7 +642,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_043",
@@ -617,7 +657,8 @@
           "note": "A5"
         }
       ],
-      "phrase": "for the Lord"
+      "phrase": "for the Lord",
+      "lyric": "/For"
     },
     {
       "id": "note_044",
@@ -630,7 +671,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_045",
@@ -643,7 +685,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "Lord"
     },
     {
       "id": "note_046",
@@ -656,7 +699,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "God"
     },
     {
       "id": "note_047",
@@ -669,7 +713,8 @@
           "action": "blow",
           "note": "D5"
         }
-      ]
+      ],
+      "lyric": "om-"
     },
     {
       "id": "note_048",
@@ -682,7 +727,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "ni-"
     },
     {
       "id": "note_049",
@@ -695,7 +741,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "po-"
     },
     {
       "id": "note_050",
@@ -708,7 +755,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "tent"
     },
     {
       "id": "note_051",
@@ -721,7 +769,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "reign-"
     },
     {
       "id": "note_052",
@@ -734,7 +783,8 @@
           "action": "blow",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "eth"
     },
     {
       "id": "note_053",
@@ -747,7 +797,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_054",
@@ -760,7 +811,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_055",
@@ -773,7 +825,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_056",
@@ -786,7 +839,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_057",
@@ -799,7 +853,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_058",
@@ -812,7 +867,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_059",
@@ -825,7 +881,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_060",
@@ -838,7 +895,8 @@
           "action": "draw",
           "note": "C#6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_061",
@@ -851,7 +909,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_062",
@@ -864,7 +923,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_063",
@@ -877,7 +937,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_064",
@@ -890,7 +951,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_065",
@@ -903,7 +965,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_066",
@@ -916,7 +979,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_067",
@@ -929,7 +993,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_068",
@@ -942,7 +1007,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_069",
@@ -956,7 +1022,8 @@
           "note": "D6"
         }
       ],
-      "phrase": "hallelujahs return"
+      "phrase": "hallelujahs return",
+      "lyric": "/Hal-"
     },
     {
       "id": "note_070",
@@ -969,7 +1036,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_071",
@@ -982,7 +1050,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_072",
@@ -995,7 +1064,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_073",
@@ -1008,7 +1078,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_074",
@@ -1021,7 +1092,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_075",
@@ -1034,7 +1106,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_076",
@@ -1047,7 +1120,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_077",
@@ -1060,7 +1134,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_078",
@@ -1073,7 +1148,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_079",
@@ -1086,7 +1162,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_080",
@@ -1099,7 +1176,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_081",
@@ -1112,7 +1190,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/Hal-"
     },
     {
       "id": "note_082",
@@ -1125,7 +1204,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "le-"
     },
     {
       "id": "note_083",
@@ -1138,7 +1218,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "lu-"
     },
     {
       "id": "note_084",
@@ -1151,7 +1232,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "jah"
     },
     {
       "id": "note_085",
@@ -1164,7 +1246,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "/For"
     },
     {
       "id": "note_086",
@@ -1178,7 +1261,8 @@
           "note": "E6"
         }
       ],
-      "phrase": "for the Lord again"
+      "phrase": "for the Lord again",
+      "lyric": "the"
     },
     {
       "id": "note_087",
@@ -1191,7 +1275,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "Lord"
     },
     {
       "id": "note_088",
@@ -1204,7 +1289,8 @@
           "action": "draw",
           "note": "G6"
         }
-      ]
+      ],
+      "lyric": "God"
     },
     {
       "id": "note_089",
@@ -1217,7 +1303,8 @@
           "action": "draw",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "om-"
     },
     {
       "id": "note_090",
@@ -1230,7 +1317,8 @@
           "action": "draw",
           "note": "G6"
         }
-      ]
+      ],
+      "lyric": "ni-"
     },
     {
       "id": "note_091",
@@ -1243,7 +1331,8 @@
           "action": "draw",
           "note": "G6"
         }
-      ]
+      ],
+      "lyric": "po-"
     },
     {
       "id": "note_092",
@@ -1256,7 +1345,8 @@
           "action": "blow",
           "note": "F#6"
         }
-      ]
+      ],
+      "lyric": "tent"
     },
     {
       "id": "note_093",
@@ -1269,7 +1359,8 @@
           "action": "draw",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "reign-"
     },
     {
       "id": "note_094",
@@ -1282,7 +1373,8 @@
           "action": "blow",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "eth"
     }
   ],
   "scoring": {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Harmonicon contributors",
     "source": "https://www.superpartituras.com.br/-desconhecido-/fui-no-tororo",
     "license": "Public-domain underlying melody; chart adaptation MIT",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "practice pass 1"
+      "phrase": "practice pass 1",
+      "lyric": "/Fui no Tororó"
     },
     {
       "id": "note_002",
@@ -134,7 +135,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "/Beber água e não achei"
     },
     {
       "id": "note_007",
@@ -225,7 +227,8 @@
           "action": "blow",
           "note": "E5"
         }
-      ]
+      ],
+      "lyric": "/Achei linda morena"
     },
     {
       "id": "note_014",
@@ -303,7 +306,8 @@
           "action": "draw",
           "note": "B5"
         }
-      ]
+      ],
+      "lyric": "/Que no Tororó deixei"
     },
     {
       "id": "note_020",

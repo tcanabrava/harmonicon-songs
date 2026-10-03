@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "format_version": "1.0.0",
+    "format_version": "1.6.0",
     "author": "Traditional",
     "source": "Amazing Grace (New Britain)",
     "license": "Public domain melody",
@@ -69,7 +69,8 @@
           "note": "G5"
         }
       ],
-      "phrase": "verse"
+      "phrase": "verse",
+      "lyric": "/A-"
     },
     {
       "id": "note_002",
@@ -82,7 +83,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "maz-"
     },
     {
       "id": "note_003",
@@ -95,7 +97,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "ing"
     },
     {
       "id": "note_004",
@@ -121,7 +124,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "grace"
     },
     {
       "id": "note_006",
@@ -134,7 +138,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "how"
     },
     {
       "id": "note_007",
@@ -147,7 +152,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "sweet"
     },
     {
       "id": "note_008",
@@ -160,7 +166,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "the"
     },
     {
       "id": "note_009",
@@ -173,7 +180,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "sound"
     },
     {
       "id": "note_010",
@@ -186,7 +194,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/That"
     },
     {
       "id": "note_011",
@@ -199,7 +208,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "saved"
     },
     {
       "id": "note_012",
@@ -212,7 +222,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "a"
     },
     {
       "id": "note_013",
@@ -238,7 +249,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "wretch"
     },
     {
       "id": "note_015",
@@ -251,7 +263,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "like"
     },
     {
       "id": "note_016",
@@ -265,7 +278,8 @@
           "note": "G6"
         }
       ],
-      "phrase": "high phrase"
+      "phrase": "high phrase",
+      "lyric": "me"
     },
     {
       "id": "note_017",
@@ -278,7 +292,8 @@
           "action": "blow",
           "note": "G6"
         }
-      ]
+      ],
+      "lyric": "/I"
     },
     {
       "id": "note_018",
@@ -291,7 +306,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "once"
     },
     {
       "id": "note_019",
@@ -304,7 +320,8 @@
           "action": "blow",
           "note": "G6"
         }
-      ]
+      ],
+      "lyric": "was"
     },
     {
       "id": "note_020",
@@ -317,7 +334,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "lost"
     },
     {
       "id": "note_021",
@@ -330,7 +348,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "but"
     },
     {
       "id": "note_022",
@@ -343,7 +362,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "now"
     },
     {
       "id": "note_023",
@@ -356,7 +376,8 @@
           "action": "draw",
           "note": "A5"
         }
-      ]
+      ],
+      "lyric": "am"
     },
     {
       "id": "note_024",
@@ -369,7 +390,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "found"
     },
     {
       "id": "note_025",
@@ -382,7 +404,8 @@
           "action": "blow",
           "note": "G5"
         }
-      ]
+      ],
+      "lyric": "/Was"
     },
     {
       "id": "note_026",
@@ -396,7 +419,8 @@
           "note": "C6"
         }
       ],
-      "phrase": "closing"
+      "phrase": "closing",
+      "lyric": "blind"
     },
     {
       "id": "note_027",
@@ -409,7 +433,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "but"
     },
     {
       "id": "note_028",
@@ -435,7 +460,8 @@
           "action": "blow",
           "note": "E6"
         }
-      ]
+      ],
+      "lyric": "now"
     },
     {
       "id": "note_030",
@@ -448,7 +474,8 @@
           "action": "draw",
           "note": "D6"
         }
-      ]
+      ],
+      "lyric": "I"
     },
     {
       "id": "note_031",
@@ -461,7 +488,8 @@
           "action": "blow",
           "note": "C6"
         }
-      ]
+      ],
+      "lyric": "see"
     }
   ],
   "scoring": {
