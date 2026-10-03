@@ -49,6 +49,26 @@ repository: in the game's `settings.json`, set
 
 A local folder is read in place, so edits show up without committing.
 
+## Public-domain folk charts
+
+The [implementation plan](PLAN.md) lists 24 implemented chart exercises,
+including 12 Brazilian traditional selections and blues, jazz, country, and
+rock repertoire. Each song has a `SOURCES.md` describing its melody reference
+and beginner adaptation. Rebuild the 23 additions with
+`python .tools/build_beginner_charts.py`; Swing Low is built by the folk
+generator below. Melody data is checked in; regeneration needs no network.
+
+These chart-only exercises use single unbent notes on a standard C Richter
+harmonica, slow tempos, and breathing space. Some cover a short verse or
+refrain excerpt. Genre labels describe planned pack styles; backing audio
+and physical harmonica/in-game musical review remain pending.
+
+See [FOLK_ARTISTS_PLAN.md](FOLK_ARTISTS_PLAN.md) for songs also performed by
+Arlo Guthrie, Woody Guthrie, Pete Seeger, and Joan Baez. Each selection has
+historical melody and performance references in its `SOURCES.md`. These are
+short beginner practice adaptations for a C harmonica. Rebuild the five new
+charts with `python .tools/build_folk_charts.py`.
+
 ## Credits
 
 "Boom Boom", "Hush Hush" and "One Bourbon, One Scotch, One Beer" by John Lee

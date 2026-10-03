@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "format_version": "1.0.0",
+    "author": "Harmonicon contributors",
+    "source": "https://www.phasenumkehr.de/musik/musiknotation",
+    "license": "Public-domain underlying melody; chart adaptation MIT",
+    "description": "Opening verse phrase only (“There is a house in New Orleans”), raised an octave in A minor (A5–E6), repeated three times. The next-phrase pickup is omitted. Uses the traditional triple-meter melody; later chromatic response and modern instrumental arrangement are omitted."
+  },
+  "song": {
+    "title": "House of the Rising Sun",
+    "artist": "Traditional",
+    "tempo_bpm": 60,
+    "key": "Am",
+    "time_signature": "3/4",
+    "difficulty": "easy",
+    "genre": "Rock"
+  },
+  "timing": {
+    "resolution": 480,
+    "tempo_map": [
+      {
+        "tick": 0,
+        "bpm": 60
+      }
+    ]
+  },
+  "harmonica": {
+    "type": "diatonic",
+    "holes": 10,
+    "position": "4th",
+    "bending_profile": "richter_standard",
+    "layout": {
+      "blow": [
+        "C4",
+        "E4",
+        "G4",
+        "C5",
+        "E5",
+        "G5",
+        "C6",
+        "E6",
+        "G6",
+        "C7"
+      ],
+      "draw": [
+        "D4",
+        "G4",
+        "B4",
+        "D5",
+        "F5",
+        "A5",
+        "B5",
+        "D6",
+        "F6",
+        "A6"
+      ]
+    }
+  },
+  "track": [
+    {
+      "id": "note_001",
+      "time": 4.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ],
+      "phrase": "practice pass 1"
+    },
+    {
+      "id": "note_002",
+      "time": 5.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_003",
+      "time": 7.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "draw",
+          "note": "B5"
+        }
+      ]
+    },
+    {
+      "id": "note_004",
+      "time": 8.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_005",
+      "time": 10.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "blow",
+          "note": "E6"
+        }
+      ]
+    },
+    {
+      "id": "note_006",
+      "time": 11.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_007",
+      "time": 13.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_008",
+      "time": 14.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_009",
+      "time": 18.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ],
+      "phrase": "practice pass 2"
+    },
+    {
+      "id": "note_010",
+      "time": 19.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_011",
+      "time": 21.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "draw",
+          "note": "B5"
+        }
+      ]
+    },
+    {
+      "id": "note_012",
+      "time": 22.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_013",
+      "time": 24.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "blow",
+          "note": "E6"
+        }
+      ]
+    },
+    {
+      "id": "note_014",
+      "time": 25.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_015",
+      "time": 27.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_016",
+      "time": 28.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_017",
+      "time": 32.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ],
+      "phrase": "practice pass 3"
+    },
+    {
+      "id": "note_018",
+      "time": 33.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_019",
+      "time": 35.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "draw",
+          "note": "B5"
+        }
+      ]
+    },
+    {
+      "id": "note_020",
+      "time": 36.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    },
+    {
+      "id": "note_021",
+      "time": 38.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "blow",
+          "note": "E6"
+        }
+      ]
+    },
+    {
+      "id": "note_022",
+      "time": 39.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 8,
+          "action": "draw",
+          "note": "D6"
+        }
+      ]
+    },
+    {
+      "id": "note_023",
+      "time": 41.0,
+      "duration": 1.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 6,
+          "action": "draw",
+          "note": "A5"
+        }
+      ]
+    },
+    {
+      "id": "note_024",
+      "time": 42.0,
+      "duration": 2.0,
+      "play_mode": "single",
+      "events": [
+        {
+          "hole": 7,
+          "action": "blow",
+          "note": "C6"
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfect_window_ms": 120,
+    "good_window_ms": 260,
+    "miss_window_ms": 500
+  }
+}

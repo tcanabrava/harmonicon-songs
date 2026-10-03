@@ -1,0 +1,2777 @@
+[
+  {
+    "id": "BR01",
+    "title": "Ciranda Cirandinha",
+    "artist": "Traditional",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.5
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?t=es&p=209",
+    "adaptation": "Complete traditional melody reference, transposed B-flat to C; source note lengths restored from the notated rhythm rather than MIDI articulation.",
+    "provenance": "Traditional title cataloged under Domínio Público by [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico). The catalog establishes the traditional attribution, rather than rights to any modern performer’s arrangement. This melody reference is used only for the underlying tune.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR02",
+    "title": "Cai Cai Balão",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        3.5
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?t=es&p=2305",
+    "adaptation": "One complete melody pass, raised an octave to C5–A5. All rhythmic values doubled so sixteenths become slow eighth notes. This is the traditional children’s tune, not the distinct Assis Valente composition.",
+    "provenance": "Traditional title cataloged under Domínio Público by [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico). The catalog establishes the traditional attribution, rather than rights to any modern performer’s arrangement. This melody reference is used only for the underlying tune.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR03",
+    "title": "Sapo Cururu",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C6",
+        4.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C6",
+        4.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.mamalisa.com/?t=es&p=4826",
+    "adaptation": "Opening two phrases only; G to C transposition in the upper register (E5–C6), with all durations doubled. Two practice passes.",
+    "provenance": "The older Sapo Jururu tune family is printed in Alexina Magalhães Pinto’s [Cantigas das Creanças e do Povo (1911)](https://digital.bbm.usp.br/handle/bbm/7999), printed page 41; collector died 1921. The selected modern reference is the traditional variant, not Gentil Puget’s distinct composition. Traditional attribution also appears in the Brazilian public-domain catalog.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR05",
+    "title": "Pirulito Que Bate Bate",
+    "artist": "Traditional",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?t=es&p=210",
+    "adaptation": "Complete melody, raised an octave to C5–C6; note and rest lengths doubled to replace sixteenth notes with slow eighth notes.",
+    "provenance": "Traditional title cataloged under Domínio Público by [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico). The catalog establishes the traditional attribution, rather than rights to any modern performer’s arrangement. This melody reference is used only for the underlying tune.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR06",
+    "title": "Escravos de Jó",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "E6",
+        1
+      ],
+      [
+        "E6",
+        0.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "-",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "-",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "C6",
+        1.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?t=es&p=208",
+    "adaptation": "Complete traditional melody reference in C, raised an octave. Restored straightforward notated note values; source MIDI articulation is not retained.",
+    "provenance": "Traditional title cataloged under Domínio Público by [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico). The catalog establishes the traditional attribution, rather than rights to any modern performer’s arrangement. This melody reference is used only for the underlying tune.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR07",
+    "title": "Sambalelê",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.mamalisa.com/?t=es&p=2042",
+    "adaptation": "Opening verse only, transposed G to C (B4–G5). All rhythmic values doubled; sixteenths become eighth notes. Refrain omitted. No modern accompaniment or fills included.",
+    "provenance": "Traditional title cataloged under Domínio Público by [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico). The catalog establishes the traditional attribution, rather than rights to any modern performer’s arrangement. This melody reference is used only for the underlying tune.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR08",
+    "title": "Terezinha de Jesus",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "Am",
+    "notes": [
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "F6",
+        1.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "D6",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.mamalisa.com/?t=es&p=212",
+    "adaptation": "Opening two phrases only, E minor to A minor in the upper octave (A5–F6); durations doubled. Two practice passes; remaining verse omitted to keep the range smaller.",
+    "provenance": "The Terezinha tune family appears in [Cantigas das Creanças e do Povo (1911)](https://digital.bbm.usp.br/handle/bbm/7999), printed pages 64–65; collector Alexina Magalhães Pinto died 1921. The chart selects the traditional E-minor variant in the linked monophonic reference.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR11",
+    "title": "O Cravo e a Rosa",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "2/4",
+    "genre": "Bossa Nova",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://www.mamalisa.com/?t=es&p=213",
+    "adaptation": "Second melodic section only, E-flat to C (B4–F5), repeated three times. The first section’s chromatic note is avoided by selecting an intact diatonic section. Straight melody exercise; bossa backing is not supplied.",
+    "provenance": "The traditional Cravo e Rosa family is printed in [Cantigas das Creanças e do Povo (1911)](https://digital.bbm.usp.br/handle/bbm/7999), printed pages 69–70; collector died 1921. This chart uses the second melodic section of the linked reference, not a modern harmonic arrangement.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "BR04",
+    "title": "Marcha Soldado",
+    "artist": "Traditional",
+    "bpm": 76,
+    "meter": "2/4",
+    "genre": "Traditional",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        1.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://files.cercomp.ufg.br/weby/up/269/o/Brincando_e_Aprendendo.compressed.pdf",
+    "adaptation": "Opening eight-bar phrase, raised an octave to C5–A5; the final tonic is held for a half note and the next-verse pickup omitted. Two practice passes.",
+    "provenance": "The university educational collection labels this a popular song and prints the familiar monophonic C-major melody. [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico) attributes Marcha Soldado to Domínio Público. No lyrics, teaching text, engraving, or accompaniment are copied.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "UFG: Brincando e Aprendendo, printed page 33"
+  },
+  {
+    "id": "BR10",
+    "title": "Peixe Vivo",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "Bossa Nova",
+    "key": "C",
+    "notes": [
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        3.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.aasaocarlos.com.br/folclore/folclore/musicas%20e%20partituras%20folcloricas/peixe%20vivo.pdf",
+    "adaptation": "Opening verse, raised an octave to C5–A5. The final tonic remains held; next-verse pickup omitted. Straight melody exercise; bossa backing is not supplied.",
+    "provenance": "The reference labels Peixe Vivo a cantiga de roda. An older Como póde viver o peixe tune appears in [Cantigas das Creanças e do Povo (1911)](https://digital.bbm.usp.br/handle/bbm/7999), printed page 135; collector died 1921. The chart uses the familiar São Carlos variant, not the different 1911 notation, and omits all guitar chords. The title is also in the Brazilian public-domain catalog.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Associação de Artes São Carlos: traditional circle-song melody"
+  },
+  {
+    "id": "BR12",
+    "title": "Fui no Tororó",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "2/4",
+    "genre": "Bossa Nova",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        3.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://www.superpartituras.com.br/-desconhecido-/fui-no-tororo",
+    "adaptation": "Opening traditional verse through its final held note, raised an octave to C5–C6. Following-verse pickup omitted; no lower-staff harmony copied. Straight melody exercise; bossa backing is not supplied.",
+    "provenance": "The source attributes the melody to an unknown author. [Discos do Brasil](https://discografia.discosdobrasil.com.br/compositor/dominio-publico) lists the traditional title as public domain. The folk melody predates Villa-Lobos’s 1926 Cirandas treatment; none of his piano arrangement is used.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Anonymous folk melody, preview upper staff"
+  },
+  {
+    "id": "BR09",
+    "title": "Alecrim Dourado",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "4/4",
+    "genre": "Bossa Nova",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://www.joanir.com/2019/11/alecrim-musicas-infantis.html",
+    "adaptation": "Opening verse only, raised to C5–G5 and given a slow, even quarter-note exercise rhythm with two-beat phrase endings. Two practice passes. The later section with F-sharp is omitted. Straight melody exercise; bossa backing is not supplied.",
+    "provenance": "The contributor identifies the tune as a popular traditional cantiga. Its title is listed under Domínio Público in the [Brazilian discography catalog](https://discografia.discosdobrasil.com.br/compositor/dominio-publico); the opening pitch sequence agrees with other traditional teaching references. The contributor’s video, karaoke, typography, and recordings are not included.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody reference"
+  },
+  {
+    "id": "JZ01",
+    "title": "When the Saints Go Marching In",
+    "artist": "Traditional",
+    "bpm": 76,
+    "meter": "4/4",
+    "genre": "Jazz",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        4.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        4.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "D5",
+        4.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        4.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "F5",
+        3.0
+      ],
+      [
+        "-",
+        2.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "C5",
+        4.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/when-the-saints/0000",
+    "adaptation": "Complete main melody, raised an octave to C5–G5; straight rhythm and source breath rests. Jazz accompaniment is not supplied.",
+    "provenance": "Anonymous traditional spiritual. [Carnegie Hall’s Link Up repertoire page](https://www.carnegiehall.org/Education/Programs/Link-Up/National-Program/The-Orchestra-Swings/When-the-Saints-Go-Marching-In) identifies the traditional song. The linked monophonic ABC is a reference to the tune, not a license for a modern jazz arrangement.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Musica Viva / John Chambers monophonic ABC"
+  },
+  {
+    "id": "JZ02",
+    "title": "Down by the Riverside",
+    "artist": "Traditional",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "Jazz",
+    "key": "C",
+    "notes": [
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "F5",
+        1.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        1.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        2.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        2.0
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "C5",
+        4.0
+      ],
+      [
+        "C5",
+        2.0
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/down-by-the-riverside/0000",
+    "adaptation": "Chorus only, using the final tonic ending, transposed D to C. All rhythmic values doubled; tied notes combined. Repeated verses and chromatic pickups are omitted. Jazz accompaniment is not supplied.",
+    "provenance": "Traditional African-American spiritual, printed in Plantation Melodies (1918). [Library of Congress historical notes](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/DownByTheRiverside.pdf) describe its older roots; no Sister Rosetta Tharpe recording or arrangement is used.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Musica Viva / John Chambers monophonic ABC"
+  },
+  {
+    "id": "JZ03",
+    "title": "Little Brown Jug",
+    "artist": "Joseph Eastburn Winner",
+    "bpm": 72,
+    "meter": "2/4",
+    "genre": "Jazz",
+    "key": "C",
+    "notes": [
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "E6",
+        2.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "G5",
+        2.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "C6",
+        2.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://abcnotation.com/tunePage?a=back.numachi.com:8000/dtrad/abc_dtrad.tar.gz/abc_dtrad/BROWNJUG/0000",
+    "adaptation": "Refrain only, A to C in the upper register (F5–E6). All rhythmic values doubled so sixteenths become slow eighth notes. No big-band riffs or accompaniment.",
+    "provenance": "The 1869 composition and its named composer are beyond the life-plus-70 term in Luxembourg/EU and Brazil, and the original publication is beyond the US publication term. [FluteTunes catalog](https://www.flutetunes.com/tunes.php?id=10) corroborates composer and dates. Only the underlying refrain is used.",
+    "attribution": "Joseph Eastburn Winner, 1869; composer lived 1837–1918",
+    "source_label": "Digital Tradition monophonic ABC"
+  },
+  {
+    "id": "BL01",
+    "title": "Careless Love",
+    "artist": "Traditional",
+    "bpm": 64,
+    "meter": "4/4",
+    "genre": "Blues",
+    "key": "C",
+    "notes": [
+      [
+        "E6",
+        1.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        2.0
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 4,
+    "source": "https://www.flutetunes.com/tunes.php?id=230",
+    "adaptation": "Opening two-bar traditional melody fragment, F to C in the upper register (A5–E6), repeated four times. Later chromatic material omitted. No Handy-added lyrics or melody, source guitar chords, or audio.",
+    "provenance": "The melody reference credits Traditional American. The [Library of Congress folk catalog](https://www.loc.gov/item/afc9999005.1135) documents the traditional song. The chart selects the plain opening tune only; W. C. Handy’s separately authored Careless Love Blues / Loveless Love material is outside this selection.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "FluteTunes: traditional melody, opening two bars"
+  },
+  {
+    "id": "BL03",
+    "title": "Go Down Moses",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "4/4",
+    "genre": "Blues",
+    "key": "Am",
+    "notes": [
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        3.0
+      ],
+      [
+        "C6",
+        1.0
+      ],
+      [
+        "C6",
+        3.0
+      ],
+      [
+        "E6",
+        2.0
+      ],
+      [
+        "E6",
+        1.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        1.5
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://archive.org/details/jubileesongscomp00sewa",
+    "adaptation": "First four bars of the historical refrain through “Egypt land”, transposed F minor to A minor in the upper register (A5–E6). Two practice passes. The remaining refrain, including its chromatic final response, is omitted.",
+    "provenance": "Jubilee Songs, as Sung by the Jubilee Singers, 1872, printed page 22 (PDF page 24), is the exact historical melody basis. The old anonymous spiritual predates modern blues arrangements. Only the melody of the opening refrain is encoded; historical lower voices and all lyrics are omitted.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Jubilee Songs (1872), printed page 22"
+  },
+  {
+    "id": "CY01",
+    "title": "Home on the Range",
+    "artist": "Traditional",
+    "bpm": 66,
+    "meter": "3/4",
+    "genre": "Country",
+    "key": "C",
+    "notes": [
+      [
+        "G5",
+        3.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "E5",
+        3.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "G4",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "D5",
+        3.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/usa/home-on-the-range/0000",
+    "adaptation": "Opening eight bars of the chorus only, G to C (G4–G5). Dotted quarter/eighth pairs made equal quarters. The lower-register part of the remaining chorus is omitted. Two practice passes.",
+    "provenance": "[Library of Congress song history](https://www.loc.gov/collections/songs-of-america/articles-and-essays/articles-about-songs/home-on-the-range/) identifies the nineteenth-century Higley/Kelley song and early collected versions. The underlying Kelley melody is outside life-plus-70 terms; no modern harmonization or lyrics are included. [Song of America composer biography](https://www.songofamerica.net/composer/kelley-daniel) supplies Kelley’s dates.",
+    "attribution": "Daniel E. Kelley (1843–1905); nineteenth-century melody",
+    "source_label": "Musica Viva / John Chambers monophonic ABC"
+  },
+  {
+    "id": "CY02",
+    "title": "Red River Valley",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "4/4",
+    "genre": "Country",
+    "key": "G",
+    "notes": [
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "D6",
+        1.0
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        1.0
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "B5",
+        0.5
+      ],
+      [
+        "D6",
+        0.5
+      ],
+      [
+        "C6",
+        1.5
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        3.0
+      ]
+    ],
+    "repeats": 1,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/usa/red-river-valley/0000",
+    "adaptation": "Complete traditional verse in G, raised an octave (D5–D6). One chromatic passing E-flat in the reference is omitted by holding its preceding E for one beat. Tied notes combined; no modern harmony.",
+    "provenance": "Anonymous nineteenth-century North American tune, listed in the American Song Treasury public-domain repertoire. The chart uses the linked traditional melody reference rather than a named modern performer’s arrangement. Associated performances: Arlo Guthrie, Son of the Wind (1992), and Woody Guthrie’s folk repertoire. Their masters and interpretations are not included. Performance evidence: [Arlo album catalog](https://music.amazon.ca/albums/B010DD4ITW), [Woody track catalog](https://folkways.si.edu/woody-guthrie/red-river-valley/american-folk-childrens-struggle-protest/music/track/smithsonian). [Smithsonian historical liner notes](https://folkways-media.si.edu/docs/folkways/artwork/SFW40103.pdf) discuss the older song and early recordings.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Musica Viva / John Chambers traditional ABC"
+  },
+  {
+    "id": "CY03",
+    "title": "Oh My Darling Clementine",
+    "artist": "Traditional",
+    "bpm": 68,
+    "meter": "3/4",
+    "genre": "Country",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        1.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "F5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        2.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        1.0
+      ],
+      [
+        "C5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "G4",
+        1.0
+      ],
+      [
+        "B4",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        2.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/back.numachi.com/Clementine/0000",
+    "adaptation": "Complete traditional melody, D to C (G4–G5). Dotted-eighth/sixteenth pairs equalized to eighths. Two practice passes.",
+    "provenance": "The melody is older traditional American repertoire, rather than a transcription of Pete Seeger’s recording. The historical 1884 song is beyond US publication terms. Associated performance: Pete Seeger’s American folk repertoire. No performer’s recording, new harmonization, or lyrics is included. [Smithsonian’s historical liner notes](https://folkways-media.si.edu/docs/folkways/artwork/SFW40150.pdf) identify the 1863 Barker and 1884 Montrose publications; [Pete’s track catalog](https://folkways.si.edu/pete-seeger/clementine-2/american-folk/music/track/smithsonian) verifies the performance connection. Historical anonymous-tune attribution is distinguished from the published song and later arrangements.",
+    "attribution": "Traditional nineteenth-century tune; commonly associated with Percy Montrose’s 1884 song",
+    "source_label": "Digital Tradition / John Chambers monophonic ABC"
+  },
+  {
+    "id": "RK01",
+    "title": "House of the Rising Sun",
+    "artist": "Traditional",
+    "bpm": 60,
+    "meter": "3/4",
+    "genre": "Rock",
+    "key": "Am",
+    "notes": [
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "A5",
+        2.0
+      ],
+      [
+        "B5",
+        1.0
+      ],
+      [
+        "C6",
+        2.0
+      ],
+      [
+        "E6",
+        1.0
+      ],
+      [
+        "D6",
+        2.0
+      ],
+      [
+        "A5",
+        1.0
+      ],
+      [
+        "C6",
+        2.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://www.phasenumkehr.de/musik/musiknotation",
+    "adaptation": "Opening verse phrase only (“There is a house in New Orleans”), raised an octave in A minor (A5–E6), repeated three times. The next-phrase pickup is omitted. Uses the traditional triple-meter melody; later chromatic response and modern instrumental arrangement are omitted.",
+    "provenance": "The linked notation identifies the tune as traditional. [Association for Cultural Equity’s historical songbook](https://culturalequity.org/sites/default/files/2022-02/POPULAR%20SONGBOOK%20booklet.pdf) documents the older collected folk song. This is a short independent exercise from the traditional opening, not the Animals’ arrangement or any recording.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Traditional melody illustrated in ABC notation"
+  },
+  {
+    "id": "RK02",
+    "title": "The Midnight Special",
+    "artist": "Traditional",
+    "bpm": 72,
+    "meter": "4/4",
+    "genre": "Rock",
+    "key": "G",
+    "notes": [
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        1.0
+      ],
+      [
+        "F5",
+        2.0
+      ],
+      [
+        "E5",
+        1.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "-",
+        2.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "B4",
+        1.0
+      ],
+      [
+        "D5",
+        2.5
+      ],
+      [
+        "-",
+        2.0
+      ]
+    ],
+    "repeats": 3,
+    "source": "https://folkways-media.si.edu/docs/folkways/artwork/FW02028.pdf",
+    "adaptation": "Opening refrain fragment only, transposed D to G (B4–F5). Repeated-note entry expanded to slow quarters and a hold; subsequent pickups use slow eighths. Source tied notes combined. Three practice passes, with source breath rests and added resets; no instrumental arrangement or recording.",
+    "provenance": "[Smithsonian Folkways historical notes](https://folkways-media.si.edu/docs/folkways/artwork/FW02028.pdf) document the older traditional song. Melody reference: [eNovativePiano lead sheet, chorus in the third system](https://enovativepiano.com/storage/lesson_attachments/Midnight_Special_lead_sheet_1735220376.pdf), labeled US Traditional. The modern ©2011 edition is not redistributed; only its underlying traditional pitch contour is used in our independently simplified exercise. No source guitar chords or recordings are included.",
+    "attribution": "Anonymous traditional melody",
+    "source_label": "Smithsonian Folkways historical repertoire notes"
+  },
+  {
+    "id": "RK03",
+    "title": "Oh Susanna",
+    "artist": "Stephen Foster",
+    "bpm": 76,
+    "meter": "2/4",
+    "genre": "Rock",
+    "key": "C",
+    "notes": [
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        1.0
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "A5",
+        0.5
+      ],
+      [
+        "G5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "C5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "E5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "D5",
+        0.5
+      ],
+      [
+        "C5",
+        1.0
+      ]
+    ],
+    "repeats": 2,
+    "source": "https://americanmusic.library.pitt.edu/content/oh-susanna",
+    "adaptation": "Opening verse melody, transposed into C5–A5 with straight slow eighth notes and one-beat phrase endings. Two practice passes; all lyrics and accompaniment omitted.",
+    "provenance": "The University of Pittsburgh’s American Music Collection provides the historical published score. The 1848 composition is beyond life-plus-70 terms in Luxembourg/EU and Brazil and beyond the US publication term. This is a melody exercise, not a modern folk or rock recording.",
+    "attribution": "Stephen Foster, 1848; composer died 1864",
+    "source_label": "University of Pittsburgh: historical Oh! Susanna score"
+  }
+]
